@@ -83,7 +83,7 @@ pip install -r requirements.txt
 python CONLL04preprocessing/conll04_formatting.py
 python CONLL04preprocessing/evalFileGeneration.py
 ```
-- The first command will format the CONLLO4 test dataset in the desired JSON format and generate it and this generated will stored at the location `data/datasets/conll04/test_triples.json`. In case you directly want access to the file you can directly find the file in `ipynb folder\dataFiles\golden_truth.json`
+- The first command will format the CONLLO4 test dataset in the desired JSON format and generate it and this generated will stored at the location `data/datasets/conll04/test_triples.json`. In case you directly want access to the file you can directly find the file in `ipynb folder/dataFiles/golden_truth.json`
 - The second command will generate a evaluation file on which predictions will be made by our pipeline. If you want direct acess to the file, it is already at the location `data/datasets/conll04/conll04_eval.json`
 - These above two files' path are also set in all the three Bash files
 
