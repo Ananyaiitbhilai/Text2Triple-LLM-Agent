@@ -7,7 +7,7 @@ This repository contains the code and resources for the research project "Toward
 
 The proposed framework leverages the strengths of LLMs in understanding complex linguistic structures, handling modalities and negations, and mitigating biases inherent in training data. The experimental results on the CONLL04 dataset indicate that while multi-tool approaches face challenges such as hallucination, the integration of LLMs shows promising results in enhancing extraction accuracy.
 
-![Sysarchitecture](imgs/123 (4).png)
+![Sysarchitecture](imgs/sysarchitecture.png)
 
 ## Repository Structure
 
