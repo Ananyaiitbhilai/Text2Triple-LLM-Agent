@@ -74,9 +74,9 @@ pip install -r requirements.txt
 - Please set-up a virtual environment`
 - The dependencies are compatible for Mac M1, other OS might need to change the requirements accordingly
 
-1. Download the CONLL04 dataset and place it in the `data/` directory. I have already placed the dataset there.
+2. Download the CONLL04 dataset and place it in the `data/` directory. I have already placed the dataset there.
 
-2. Run the pre-processing script to format the dataset:
+3. Run the pre-processing script to format the dataset:
 
 ```
 python CONLL04preprocessing/conll04_formatting.py
