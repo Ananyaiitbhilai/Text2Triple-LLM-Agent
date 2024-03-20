@@ -13,6 +13,7 @@ The proposed framework leverages the strengths of LLMs in understanding complex 
 
 The `TEXT2TRIPLE-LLM-AGENT` repository is organized into several directories and files that facilitate the process of data pre-processing, prediction generation, processing, and evaluation. Below is the structure of the repository:
 
+```
 - `CONLL04_preprocessing/`: This directory contains scripts for pre-processing and formatting the CONLL04 dataset.
   - `conll04_formatting.py`: Script for formatting the CONLL04 dataset.
   - `evalFileGeneration.py`: Script for generating evaluation files.
@@ -58,7 +59,7 @@ The `TEXT2TRIPLE-LLM-AGENT` repository is organized into several directories and
 - `run_multi_tool.bash`: Bash script to automate the process using multiple tools.
 - `run_single_tool_noLLM.bash`: Bash script to run the process with a single tool without LLM.
 - `run_single_tool.bash`: Bash script to run the process with a single tool.
-
+```
 
 ## Getting Started
 
