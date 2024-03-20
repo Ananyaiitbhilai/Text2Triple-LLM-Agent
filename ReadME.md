@@ -54,11 +54,11 @@ The `TEXT2TRIPLE-LLM-AGENT` repository is organized into several directories and
     - `multiToolRE.py`: Script for multi-tool relation extraction.
     - `REBEL.py`: Script for REBEL tool.
 
-- `ReadME.md`: Markdown file containing the repository's documentation.
 - `requirements.txt`: Text file listing the dependencies required for the repository.
 - `run_multi_tool.bash`: Bash script to automate the process using multiple tools.
 - `run_single_tool_noLLM.bash`: Bash script to run the process with a single tool without LLM.
 - `run_single_tool.bash`: Bash script to run the process with a single tool.
+- `ipynb files`: Contains ipynb files for EDA and calculting scores. However, Pipeline also generates these scores
 ```
 
 ## Getting Started
