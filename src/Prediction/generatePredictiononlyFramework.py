@@ -2,9 +2,10 @@ import json
 import sys
 import os
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
 from src.Tools.REBEL import extract_text_triplets_rebel
 from src.Tools.KnowGL import extract_text_triplets_knowgl
-
 
 
 def generate_pred_json(extract_triples_function, input_file_path, output_file_path):

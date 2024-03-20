@@ -1,5 +1,10 @@
 import json
-from ..SystemLLM.LLMmultiTool import process_command
+import sys
+import os 
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
+from src.SystemLLM.LLMmultiTool import process_command
 
 # Function to extract triples for each context in eval.json and create pred.json
 def generate_pred_json(eval_file_path, pred_file_path):

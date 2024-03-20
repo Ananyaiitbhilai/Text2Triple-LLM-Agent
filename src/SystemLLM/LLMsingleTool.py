@@ -1,14 +1,20 @@
 from llama_cpp import Llama
 import re
 import json
+import sys
+import os
+from dotenv import load_dotenv
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
-from ..Tools.REBEL import extract_text_triplets_rebel
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
+from src.Tools.REBEL import extract_text_triplets_rebel
+
+load_dotenv()
 callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
 
-llm = Llama(model_path="<path of your LLM (gguf format)>",  
+llm = Llama(model_path=os.getenv("LLM_MODEL_PATH"),  
 n_ctx=2048,
 n_gpu_layers=-1,
 n_batch=512,
