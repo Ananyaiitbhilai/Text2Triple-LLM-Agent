@@ -12,7 +12,7 @@ The proposed framework leverages the strengths of LLMs in understanding complex 
 ## Repository Structure
 
 The `TEXT2TRIPLE-LLM-AGENT` repository is organized into several directories and files that facilitate the process of data pre-processing, prediction generation, processing, and evaluation. Below is the structure of the repository:
-
+```
 Text2Triple
 │
 ├── CONLL04_preprocessing/
@@ -61,7 +61,7 @@ Text2Triple
 ├── run_single_tool_noLLM.bash  # Bash script to run the process with a single tool without LLM.
 ├── run_single_tool.bash  # Bash script to run the process with a single tool.
 └── ipynb files  # Contains ipynb files for EDA and calculating scores. However, running the pipeline will also generates these scores.
-
+```
 
 
 ## Getting Started
