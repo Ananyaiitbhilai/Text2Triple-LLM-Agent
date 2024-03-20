@@ -1,0 +1,4058 @@
+[
+    {
+        "title": "17",
+        "context": "An art exhibit at the Hakawati Theatre in Arab east Jerusalem was a series of portraits of Palestinians killed in the rebellion .",
+        "id": "17",
+        "triplets_sentence": "<triplet> Hakawati Theatre <org> Jerusalem <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Hakawati Theatre",
+                "type": "headquarters location",
+                "tail": "Jerusalem"
+            }
+        ]
+    },
+    {
+        "title": "23",
+        "context": "PERUGIA , Italy ( AP )",
+        "id": "23",
+        "triplets_sentence": "<triplet> PERUGIA <loc> Italy <loc> location <triplet> AP <org> PERUGIA <loc> headquarters location <org> Italy <loc> headquarters location",
+        "triples": [
+            {
+                "head": "PERUGIA",
+                "type": "location",
+                "tail": "Italy"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "PERUGIA"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "Italy"
+            }
+        ]
+    },
+    {
+        "title": "34",
+        "context": "Reagan sounded positive notes reminiscent of earlier speeches throughout his political career _ the pre-eminent position of ` ` We the People ' ' in the American system , the image of America as a shining ` ` city upon a hill , ' ' the importance of paying more attention to American history .",
+        "id": "34",
+        "triplets_sentence": "<triplet> Reagan <peop> America <loc> residence",
+        "triples": [
+            {
+                "head": "Reagan",
+                "type": "residence",
+                "tail": "America"
+            }
+        ]
+    },
+    {
+        "title": "36",
+        "context": "Nor did he argue , as he did in a speech at the University of Virginia in Charlottesville Dec. 16 , that Congress had perpetuated a dangerous situation in Central America by its ` ` on-again , off-again indecisiveness ' ' on his program of aid to the anti-communist Contra rebels .",
+        "id": "36",
+        "triplets_sentence": "<triplet> University of Virginia <org> Charlottesville <loc> headquarters location",
+        "triples": [
+            {
+                "head": "University of Virginia",
+                "type": "headquarters location",
+                "tail": "Charlottesville"
+            }
+        ]
+    },
+    {
+        "title": "56",
+        "context": "Wright , a University of Texas law professor , served as one of Nixon 's lawyers in 1973 and 1974 while the Watergate special prosecutor was trying to subpoena the White House tapes .",
+        "id": "56",
+        "triplets_sentence": "<triplet> Wright <peop> University of Texas <org> employer",
+        "triples": [
+            {
+                "head": "Wright",
+                "type": "employer",
+                "tail": "University of Texas"
+            }
+        ]
+    },
+    {
+        "title": "77",
+        "context": "An enraged Nikita Khrushchev instructed Soviet ships to ignore President Kennedy 's naval blockade during the Cuban missile crisis , but the order was reversed just hours before an inevitable confrontation , according to a new book .",
+        "id": "77",
+        "triplets_sentence": "<triplet> Nikita Khrushchev <peop> Soviet <loc> residence",
+        "triples": [
+            {
+                "head": "Nikita Khrushchev",
+                "type": "residence",
+                "tail": "Soviet"
+            }
+        ]
+    },
+    {
+        "title": "79",
+        "context": "Anastas Mikoyan , then Soviet first deputy premier , was the catalyst for the reversal of Khrushchev 's order , according to the authors .",
+        "id": "79",
+        "triplets_sentence": "<triplet> Anastas Mikoyan <peop> Soviet <loc> residence <triplet> Khrushchev <peop> Soviet <loc> residence",
+        "triples": [
+            {
+                "head": "Anastas Mikoyan",
+                "type": "residence",
+                "tail": "Soviet"
+            },
+            {
+                "head": "Khrushchev",
+                "type": "residence",
+                "tail": "Soviet"
+            }
+        ]
+    },
+    {
+        "title": "80",
+        "context": "Mikoyan ` ` preempted Khrushchev 's order to run the blockade and ordered Soviet ships to stop just short of the quarantine line , ' ' they say .",
+        "id": "80",
+        "triplets_sentence": "<triplet> Mikoyan <peop> Soviet <loc> residence <triplet> Khrushchev <peop> Soviet <loc> residence",
+        "triples": [
+            {
+                "head": "Mikoyan",
+                "type": "residence",
+                "tail": "Soviet"
+            },
+            {
+                "head": "Khrushchev",
+                "type": "residence",
+                "tail": "Soviet"
+            }
+        ]
+    },
+    {
+        "title": "89",
+        "context": "But the authors suggested that Alekseev , along with others in the Soviet diplomatic corps , were not receiving accurate information from Moscow about the missiles .",
+        "id": "89",
+        "triplets_sentence": "<triplet> Alekseev <peop> Soviet <loc> residence",
+        "triples": [
+            {
+                "head": "Alekseev",
+                "type": "residence",
+                "tail": "Soviet"
+            }
+        ]
+    },
+    {
+        "title": "92",
+        "context": "MILAN , Italy ( AP )",
+        "id": "92",
+        "triplets_sentence": "<triplet> MILAN <loc> Italy <loc> location <triplet> AP <org> MILAN <loc> headquarters location <org> Italy <loc> headquarters location",
+        "triples": [
+            {
+                "head": "MILAN",
+                "type": "location",
+                "tail": "Italy"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "MILAN"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "Italy"
+            }
+        ]
+    },
+    {
+        "title": "130",
+        "context": "Hot Springs National Park , Ark. ;",
+        "id": "130",
+        "triplets_sentence": "<triplet> Hot Springs National Park <loc> Ark. <loc> location",
+        "triples": [
+            {
+                "head": "Hot Springs National Park",
+                "type": "location",
+                "tail": "Ark."
+            }
+        ]
+    },
+    {
+        "title": "138",
+        "context": "Locations containing suitable federally owned land were listed as : Fort Wainwright annex , Fairbanks , Alaska ;",
+        "id": "138",
+        "triplets_sentence": "<triplet> Fort Wainwright annex <loc> Fairbanks <loc> location <loc> Alaska <loc> location <triplet> Fairbanks <loc> Alaska <loc> location",
+        "triples": [
+            {
+                "head": "Fort Wainwright annex",
+                "type": "location",
+                "tail": "Fairbanks"
+            },
+            {
+                "head": "Fort Wainwright annex",
+                "type": "location",
+                "tail": "Alaska"
+            },
+            {
+                "head": "Fairbanks",
+                "type": "location",
+                "tail": "Alaska"
+            }
+        ]
+    },
+    {
+        "title": "150",
+        "context": "ATLANTIC CITY , N.J .",
+        "id": "150",
+        "triplets_sentence": "<triplet> ATLANTIC CITY <loc> N.J . <loc> location",
+        "triples": [
+            {
+                "head": "ATLANTIC CITY",
+                "type": "location",
+                "tail": "N.J ."
+            }
+        ]
+    },
+    {
+        "title": "171",
+        "context": "FRESNO , Calif .",
+        "id": "171",
+        "triplets_sentence": "<triplet> FRESNO <loc> Calif . <loc> location",
+        "triples": [
+            {
+                "head": "FRESNO",
+                "type": "location",
+                "tail": "Calif ."
+            }
+        ]
+    },
+    {
+        "title": "188",
+        "context": "Dancers of Moscow 's Bolshoi Ballet in Moscow and Leningrad 's Kirov Ballet , together with opera singers from the Armenian capital of Yerevan , joined U.S. sopranos June Anderson and Carol Vaness and British dancers and singers .",
+        "id": "188",
+        "triplets_sentence": "<triplet> Bolshoi Ballet <org> Moscow <loc> headquarters location <org> Moscow <loc> headquarters location <triplet> Kirov Ballet <org> Leningrad <loc> headquarters location <triplet> June Anderson <peop> U.S. <loc> residence <triplet> Carol Vaness <peop> U.S. <loc> residence",
+        "triples": [
+            {
+                "head": "Bolshoi Ballet",
+                "type": "headquarters location",
+                "tail": "Moscow"
+            },
+            {
+                "head": "Bolshoi Ballet",
+                "type": "headquarters location",
+                "tail": "Moscow"
+            },
+            {
+                "head": "Kirov Ballet",
+                "type": "headquarters location",
+                "tail": "Leningrad"
+            },
+            {
+                "head": "June Anderson",
+                "type": "residence",
+                "tail": "U.S."
+            },
+            {
+                "head": "Carol Vaness",
+                "type": "residence",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "195",
+        "context": "Boston University 's Michael D. Papagiannis said he believes the crater was created 100 million years ago when a 50-mile-wide meteorite slammed into the Earth .",
+        "id": "195",
+        "triplets_sentence": "<triplet> Michael D. Papagiannis <peop> Boston University <org> employer",
+        "triples": [
+            {
+                "head": "Michael D. Papagiannis",
+                "type": "employer",
+                "tail": "Boston University"
+            }
+        ]
+    },
+    {
+        "title": "197",
+        "context": "It is roughly bounded by Ostined , Lesny and Liberec in Czechoslovakia and Gmund in Austria .",
+        "id": "197",
+        "triplets_sentence": "<triplet> Ostined <loc> Czechoslovakia <loc> location <triplet> Lesny <loc> Czechoslovakia <loc> location <triplet> Liberec <loc> Czechoslovakia <loc> location <triplet> Gmund <loc> Austria <loc> location",
+        "triples": [
+            {
+                "head": "Ostined",
+                "type": "location",
+                "tail": "Czechoslovakia"
+            },
+            {
+                "head": "Lesny",
+                "type": "location",
+                "tail": "Czechoslovakia"
+            },
+            {
+                "head": "Liberec",
+                "type": "location",
+                "tail": "Czechoslovakia"
+            },
+            {
+                "head": "Gmund",
+                "type": "location",
+                "tail": "Austria"
+            }
+        ]
+    },
+    {
+        "title": "198",
+        "context": "BONE , Idaho ( AP )",
+        "id": "198",
+        "triplets_sentence": "<triplet> BONE <loc> Idaho <loc> location",
+        "triples": [
+            {
+                "head": "BONE",
+                "type": "location",
+                "tail": "Idaho"
+            }
+        ]
+    },
+    {
+        "title": "200",
+        "context": "` ` Temperatures didn 't get too low , but the wind chill was bad , ' ' said Bingham County Sheriff 's Lt. Bill Gordon .",
+        "id": "200",
+        "triplets_sentence": "<triplet> Bill Gordon <peop> Bingham County <loc> residence",
+        "triples": [
+            {
+                "head": "Bill Gordon",
+                "type": "residence",
+                "tail": "Bingham County"
+            }
+        ]
+    },
+    {
+        "title": "285",
+        "context": "Canada 's ambassador , Yves Fortier , said the resolution contained ` ` a one-sided account. ' '",
+        "id": "285",
+        "triplets_sentence": "<triplet> Yves Fortier <peop> Canada <loc> residence",
+        "triples": [
+            {
+                "head": "Yves Fortier",
+                "type": "residence",
+                "tail": "Canada"
+            }
+        ]
+    },
+    {
+        "title": "333",
+        "context": "` ` Either luck or good fortune was on my side , ' ' the shaken teacher , Donald Miller , said through United Federation of Teachers spokesman Bert Shanas .",
+        "id": "333",
+        "triplets_sentence": "<triplet> Bert Shanas <peop> United Federation of Teachers <org> employer",
+        "triples": [
+            {
+                "head": "Bert Shanas",
+                "type": "employer",
+                "tail": "United Federation of Teachers"
+            }
+        ]
+    },
+    {
+        "title": "356",
+        "context": "` ` We 're quite proud to be flying the third flight since the ( Challenger ) accident , ' ' Navy Capt. Michael Coats said during the final preflight news conference Wednesday .",
+        "id": "356",
+        "triplets_sentence": "<triplet> Michael Coats <peop> Navy <org> employer",
+        "triples": [
+            {
+                "head": "Michael Coats",
+                "type": "employer",
+                "tail": "Navy"
+            }
+        ]
+    },
+    {
+        "title": "372",
+        "context": "Gale-force winds were reported in California late Wednesday , where gusts reached 69 mph at Ontario and 57 mph at El Toro .",
+        "id": "372",
+        "triplets_sentence": "<triplet> Ontario <loc> California <loc> location <triplet> El Toro <loc> California <loc> location",
+        "triples": [
+            {
+                "head": "Ontario",
+                "type": "location",
+                "tail": "California"
+            },
+            {
+                "head": "El Toro",
+                "type": "location",
+                "tail": "California"
+            }
+        ]
+    },
+    {
+        "title": "379",
+        "context": "Temperatures around the nation at 2 a.m. EST ranged from 9 degrees below zero at Yellowstone , Wyo. , to 85 degrees at McAllen , Texas .",
+        "id": "379",
+        "triplets_sentence": "<triplet> Yellowstone <loc> Wyo. <loc> location <triplet> McAllen <loc> Texas <loc> location",
+        "triples": [
+            {
+                "head": "Yellowstone",
+                "type": "location",
+                "tail": "Wyo."
+            },
+            {
+                "head": "McAllen",
+                "type": "location",
+                "tail": "Texas"
+            }
+        ]
+    },
+    {
+        "title": "443",
+        "context": "` ` We see nothing right now that would make any difference , ' ' said Steve Wright , who directs DOE environmental studies at the SRP .",
+        "id": "443",
+        "triplets_sentence": "<triplet> Steve Wright <peop> DOE <org> employer",
+        "triples": [
+            {
+                "head": "Steve Wright",
+                "type": "employer",
+                "tail": "DOE"
+            }
+        ]
+    },
+    {
+        "title": "464",
+        "context": "The eight-pound bomb had a detonator charge , similar to a shotgun shell , that emits smoke when it hits the ground , said Bert Byers , spokesman for Cecil Field Naval Air Station .",
+        "id": "464",
+        "triplets_sentence": "<triplet> Bert Byers <peop> Cecil Field Naval Air Station <org> employer",
+        "triples": [
+            {
+                "head": "Bert Byers",
+                "type": "employer",
+                "tail": "Cecil Field Naval Air Station"
+            }
+        ]
+    },
+    {
+        "title": "475",
+        "context": "Urutigoechea and the others were arrested Wednesday in the cities of Bayonee and Bonloc in southwestern France in Poitiers in west-central France .",
+        "id": "475",
+        "triplets_sentence": "<triplet> Bayonee <loc> France <loc> location <loc> France <loc> location <triplet> Bonloc <loc> France <loc> location <loc> France <loc> location <triplet> Poitiers <loc> France <loc> location <loc> France <loc> location",
+        "triples": [
+            {
+                "head": "Bayonee",
+                "type": "location",
+                "tail": "France"
+            },
+            {
+                "head": "Bayonee",
+                "type": "location",
+                "tail": "France"
+            },
+            {
+                "head": "Bonloc",
+                "type": "location",
+                "tail": "France"
+            },
+            {
+                "head": "Bonloc",
+                "type": "location",
+                "tail": "France"
+            },
+            {
+                "head": "Poitiers",
+                "type": "location",
+                "tail": "France"
+            },
+            {
+                "head": "Poitiers",
+                "type": "location",
+                "tail": "France"
+            }
+        ]
+    },
+    {
+        "title": "490",
+        "context": "Judith C. Toth says she returned for a fourth term in Maryland 's House of Delegates because she couldn 't find a better job .",
+        "id": "490",
+        "triplets_sentence": "<triplet> House of Delegates <org> Maryland <loc> headquarters location",
+        "triples": [
+            {
+                "head": "House of Delegates",
+                "type": "headquarters location",
+                "tail": "Maryland"
+            }
+        ]
+    },
+    {
+        "title": "503",
+        "context": "` ` We forwarded blood samples from the coyotes to the Center for Disease Control in Fort Collins and on Jan. 3 they confirmed the presence of plague. ' '",
+        "id": "503",
+        "triplets_sentence": "<triplet> Center for Disease Control <org> Fort Collins <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Center for Disease Control",
+                "type": "headquarters location",
+                "tail": "Fort Collins"
+            }
+        ]
+    },
+    {
+        "title": "521",
+        "context": "Hatcher also fled to the Onondaga territory but has since moved to a Shoshone-Bannock reservation in Idaho .",
+        "id": "521",
+        "triplets_sentence": "<triplet> Shoshone-Bannock reservation <loc> Idaho <loc> location",
+        "triples": [
+            {
+                "head": "Shoshone-Bannock reservation",
+                "type": "location",
+                "tail": "Idaho"
+            }
+        ]
+    },
+    {
+        "title": "541",
+        "context": "Albert O. Harjula , 29 , of Thomaston , became trapped first , said Paul Fournier , a spokesman for the state Department of Inland Fisheries and Wildlife .",
+        "id": "541",
+        "triplets_sentence": "<triplet> Albert O. Harjula <peop> Thomaston <loc> residence <triplet> Paul Fournier <peop> Department of Inland Fisheries and Wildlife <org> employer",
+        "triples": [
+            {
+                "head": "Albert O. Harjula",
+                "type": "residence",
+                "tail": "Thomaston"
+            },
+            {
+                "head": "Paul Fournier",
+                "type": "employer",
+                "tail": "Department of Inland Fisheries and Wildlife"
+            }
+        ]
+    },
+    {
+        "title": "556",
+        "context": "To meet tritium needs , the report repeated previous administration recommendations for the construction of a $3.2 billion heavy water reactor at Savannah River and a $3.6 billion new design gas-cooled reactor at the Energy Department facility at Idaho Falls , Idaho .",
+        "id": "556",
+        "triplets_sentence": "<triplet> Idaho Falls <loc> Idaho <loc> location",
+        "triples": [
+            {
+                "head": "Idaho Falls",
+                "type": "location",
+                "tail": "Idaho"
+            }
+        ]
+    },
+    {
+        "title": "561",
+        "context": "An architect of President Nixon 's unsuccessful executive-privilege Watergate defense is a top prospect for the post of U.S. solicitor in the new Bush administration .",
+        "id": "561",
+        "triplets_sentence": "<triplet> Bush <peop> U.S. <loc> residence",
+        "triples": [
+            {
+                "head": "Bush",
+                "type": "residence",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "563",
+        "context": "Also under consideration are two conservative federal appellate judges appointed by President Reagan : Ralph K. Winter of the 2nd U.S. Circuit Court of Appeals in New York and Kenneth Starr of the U.S. Circuit Court of Appeals for the District of Columbia .",
+        "id": "563",
+        "triplets_sentence": "<triplet> Ralph K. Winter <peop> 2nd U.S. Circuit Court of Appeals <org> employer <triplet> 2nd U.S. Circuit Court of Appeals <org> New York <loc> headquarters location <triplet> Kenneth Starr <peop> U.S. Circuit Court of Appeals <org> employer <triplet> U.S. Circuit Court of Appeals <org> District of Columbia <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Ralph K. Winter",
+                "type": "employer",
+                "tail": "2nd U.S. Circuit Court of Appeals"
+            },
+            {
+                "head": "2nd U.S. Circuit Court of Appeals",
+                "type": "headquarters location",
+                "tail": "New York"
+            },
+            {
+                "head": "Kenneth Starr",
+                "type": "employer",
+                "tail": "U.S. Circuit Court of Appeals"
+            },
+            {
+                "head": "U.S. Circuit Court of Appeals",
+                "type": "headquarters location",
+                "tail": "District of Columbia"
+            }
+        ]
+    },
+    {
+        "title": "630",
+        "context": "Reagan recalled that on the 40th anniversary of the Normandy landings he read a letter from a young woman whose late father had fought at Omaha Beach , a Normandy sector .",
+        "id": "630",
+        "triplets_sentence": "<triplet> Omaha Beach <loc> Normandy <loc> location",
+        "triples": [
+            {
+                "head": "Omaha Beach",
+                "type": "location",
+                "tail": "Normandy"
+            }
+        ]
+    },
+    {
+        "title": "670",
+        "context": "After buying the shawl for $1 , 600 , Darryl Breniser of Blue Ball , said the approximately 2-by-5 foot shawl was worth the money .",
+        "id": "670",
+        "triplets_sentence": "<triplet> Darryl Breniser <peop> Blue Ball <loc> residence",
+        "triples": [
+            {
+                "head": "Darryl Breniser",
+                "type": "residence",
+                "tail": "Blue Ball"
+            }
+        ]
+    },
+    {
+        "title": "786",
+        "context": "Terry Hands , the subsidized theater 's artistic director , unveiled a new ` ` one-year , two-season work cycle ' ' under which actors will commit themselves to one 60-week contract , playing the first half of the season at the company 's home theater in Stratford-upon-Avon before transferring the productions to its London base at the Barbican .",
+        "id": "786",
+        "triplets_sentence": "<triplet> Barbican <loc> London <loc> location",
+        "triples": [
+            {
+                "head": "Barbican",
+                "type": "location",
+                "tail": "London"
+            }
+        ]
+    },
+    {
+        "title": "819",
+        "context": "NASHVILLE , Tenn .",
+        "id": "819",
+        "triplets_sentence": "<triplet> NASHVILLE <loc> Tenn . <loc> location",
+        "triples": [
+            {
+                "head": "NASHVILLE",
+                "type": "location",
+                "tail": "Tenn ."
+            }
+        ]
+    },
+    {
+        "title": "835",
+        "context": "TUNIS , Tunisia ( AP )",
+        "id": "835",
+        "triplets_sentence": "<triplet> TUNIS <loc> Tunisia <loc> location",
+        "triples": [
+            {
+                "head": "TUNIS",
+                "type": "location",
+                "tail": "Tunisia"
+            }
+        ]
+    },
+    {
+        "title": "841",
+        "context": "Gadhafi requested the meeting of foreign ministers after two U.S. Navy planes downed the Libyan jets , which American officials say were about to attack the U.S. craft .",
+        "id": "841",
+        "triplets_sentence": "<triplet> Navy <org> U.S. <loc> headquarters location <org> U.S. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Navy",
+                "type": "headquarters location",
+                "tail": "U.S."
+            },
+            {
+                "head": "Navy",
+                "type": "headquarters location",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "844",
+        "context": "` ` The U.S. has the biggest stock of chemical arms in the world , and it is trying to obstruct other countries from having their own , ' ' said Arab League Secretary-General Chedli Klibi .",
+        "id": "844",
+        "triplets_sentence": "<triplet> Chedli Klibi <peop> Arab League <org> employer",
+        "triples": [
+            {
+                "head": "Chedli Klibi",
+                "type": "employer",
+                "tail": "Arab League"
+            }
+        ]
+    },
+    {
+        "title": "881",
+        "context": "` ` These are the tactics of a marginalized force driven to extremes by desperation , ' ' said Abrams , whose 3 -LCB- -year service as head of the Latin America bureau will end next week with the inauguration of President-elect Bush .",
+        "id": "881",
+        "triplets_sentence": "<triplet> Abrams <peop> Latin America bureau <org> employer",
+        "triples": [
+            {
+                "head": "Abrams",
+                "type": "employer",
+                "tail": "Latin America bureau"
+            }
+        ]
+    },
+    {
+        "title": "895",
+        "context": "King was killed April 4 , 1968 , in Memphis , Tenn. , and what would be his 60th birthday Sunday is celebrated as a national holiday Monday ; the celebration began with several events on Thursday .",
+        "id": "895",
+        "triplets_sentence": "<triplet> Memphis <loc> Tenn. <loc> location",
+        "triples": [
+            {
+                "head": "Memphis",
+                "type": "location",
+                "tail": "Tenn."
+            }
+        ]
+    },
+    {
+        "title": "913",
+        "context": "Soviet Foreign Eduard A. Shevardnadze is to visit China next month to pave the way for the first Chinese-Soviet summit in 30 years , Chinese television reported Monday .",
+        "id": "913",
+        "triplets_sentence": "<triplet> Eduard A. Shevardnadze <peop> Soviet <loc> residence",
+        "triples": [
+            {
+                "head": "Eduard A. Shevardnadze",
+                "type": "residence",
+                "tail": "Soviet"
+            }
+        ]
+    },
+    {
+        "title": "922",
+        "context": "In Beijing Thursday , spokesman Li repeated China 's position that the key to the solution of the Cambodian conflict ` ` lies in the genuine and complete Vietnamese troop withdrawal at the earliest possible date and effective international supervision. ' '",
+        "id": "922",
+        "triplets_sentence": "<triplet> Li <peop> Beijing <loc> residence <peop> China <loc> residence",
+        "triples": [
+            {
+                "head": "Li",
+                "type": "residence",
+                "tail": "Beijing"
+            },
+            {
+                "head": "Li",
+                "type": "residence",
+                "tail": "China"
+            }
+        ]
+    },
+    {
+        "title": "924",
+        "context": "During that time , an estimated 2 million of Cambodia 's 8 million people died from Khmer Rouge executions , famine and civil unrest .",
+        "id": "924",
+        "triplets_sentence": "<triplet> Khmer Rouge <org> Cambodia <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Khmer Rouge",
+                "type": "headquarters location",
+                "tail": "Cambodia"
+            }
+        ]
+    },
+    {
+        "title": "942",
+        "context": "Walesa , a shipyard electrician who founded the independent Solidarity union movement in 1980 , said Poles are restive and fed up with high prices and shortages .",
+        "id": "942",
+        "triplets_sentence": "<triplet> Walesa <peop> Solidarity <org> employer",
+        "triples": [
+            {
+                "head": "Walesa",
+                "type": "employer",
+                "tail": "Solidarity"
+            }
+        ]
+    },
+    {
+        "title": "957",
+        "context": "The plane , owned by Bradley First Air , of Ottawa , Canada , was carrying cargo to Montreal for Emery Air Freight Corp. , an air freight courier service with a hub at the Dayton airport .",
+        "id": "957",
+        "triplets_sentence": "<triplet> Bradley First Air <org> Ottawa <loc> headquarters location <org> Canada <loc> headquarters location <triplet> Ottawa <loc> Canada <loc> location",
+        "triples": [
+            {
+                "head": "Bradley First Air",
+                "type": "headquarters location",
+                "tail": "Ottawa"
+            },
+            {
+                "head": "Bradley First Air",
+                "type": "headquarters location",
+                "tail": "Canada"
+            },
+            {
+                "head": "Ottawa",
+                "type": "location",
+                "tail": "Canada"
+            }
+        ]
+    },
+    {
+        "title": "966",
+        "context": "Eastport International of Upper Marlboro , Md. , which has been involved in deep-water recovery of wreckage of the space shuttle Challenger as well as other air crashes , retrieved the recorder last Friday from a depth of 14 , 800 feet with its $5 million ` ` remote recovery vehicle ' ' known as Gemini 6000 .",
+        "id": "966",
+        "triplets_sentence": "<triplet> Eastport International <org> Upper Marlboro , Md. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Eastport International",
+                "type": "headquarters location",
+                "tail": "Upper Marlboro , Md."
+            }
+        ]
+    },
+    {
+        "title": "1004",
+        "context": "In 1985 , shuttle passengers included Sultan Al-Saud of Saudi Arabia and Rodolfo Neri Vela , a Mexican .",
+        "id": "1004",
+        "triplets_sentence": "<triplet> Sultan Al-Saud <peop> Saudi Arabia <loc> residence",
+        "triples": [
+            {
+                "head": "Sultan Al-Saud",
+                "type": "residence",
+                "tail": "Saudi Arabia"
+            }
+        ]
+    },
+    {
+        "title": "1029",
+        "context": "High winds blew on the east slopes of the Rocky Mountains in Montana , with winds gusting to near 50 mph at Livingston .",
+        "id": "1029",
+        "triplets_sentence": "<triplet> Rocky Mountains <loc> Montana <loc> location <triplet> Livingston <loc> Rocky Mountains <loc> location <loc> Montana <loc> location",
+        "triples": [
+            {
+                "head": "Rocky Mountains",
+                "type": "location",
+                "tail": "Montana"
+            },
+            {
+                "head": "Livingston",
+                "type": "location",
+                "tail": "Rocky Mountains"
+            },
+            {
+                "head": "Livingston",
+                "type": "location",
+                "tail": "Montana"
+            }
+        ]
+    },
+    {
+        "title": "1166",
+        "context": "Folke Nyberg , a professor of urban planning and architecture at the University of Washington , agreed Seattle 's location on the Pacific Rim means it will grow , but disagreed that concentrated downtown growth is good .",
+        "id": "1166",
+        "triplets_sentence": "<triplet> Folke Nyberg <peop> University of Washington <org> employer <triplet> Seattle <loc> Pacific Rim <loc> location",
+        "triples": [
+            {
+                "head": "Folke Nyberg",
+                "type": "employer",
+                "tail": "University of Washington"
+            },
+            {
+                "head": "Seattle",
+                "type": "location",
+                "tail": "Pacific Rim"
+            }
+        ]
+    },
+    {
+        "title": "1167",
+        "context": "Seattle has an ` ` hour-glass ' ' figure , squeezed between Puget Sound and Lake Washington , he said .",
+        "id": "1167",
+        "triplets_sentence": "<triplet> Puget Sound <loc> Seattle <loc> location <triplet> Lake Washington <loc> Seattle <loc> location",
+        "triples": [
+            {
+                "head": "Puget Sound",
+                "type": "location",
+                "tail": "Seattle"
+            },
+            {
+                "head": "Lake Washington",
+                "type": "location",
+                "tail": "Seattle"
+            }
+        ]
+    },
+    {
+        "title": "1188",
+        "context": "There are even hopeful signs in Chicago 's schools , branded 14 months ago as the nation 's worst by U.S. Secretary William J. Bennett .",
+        "id": "1188",
+        "triplets_sentence": "<triplet> William J. Bennett <peop> U.S. <loc> residence",
+        "triples": [
+            {
+                "head": "William J. Bennett",
+                "type": "residence",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "1197",
+        "context": "Relative size and the power of the purse are certainly key factors , says Samuel L. Husk , executive director of the Council of Great City Schools .",
+        "id": "1197",
+        "triplets_sentence": "<triplet> Samuel L. Husk <peop> Council of Great City Schools <org> employer",
+        "triples": [
+            {
+                "head": "Samuel L. Husk",
+                "type": "employer",
+                "tail": "Council of Great City Schools"
+            }
+        ]
+    },
+    {
+        "title": "1273",
+        "context": "Navy spokeswoman Lt. Nettie Johnson was unable to say immediately whether the aircraft had experienced problems from faulty check and drain valves .",
+        "id": "1273",
+        "triplets_sentence": "<triplet> Nettie Johnson <peop> Navy <org> employer",
+        "triples": [
+            {
+                "head": "Nettie Johnson",
+                "type": "employer",
+                "tail": "Navy"
+            }
+        ]
+    },
+    {
+        "title": "1285",
+        "context": "The ` ` poison pill , ' ' ruled illegal in November by U.S. District G. Ernest Tidwell , would become effective after a shareholder had acquired 10 percent of the outstanding stock .",
+        "id": "1285",
+        "triplets_sentence": "<triplet> G. Ernest Tidwell <peop> U.S. <loc> residence",
+        "triples": [
+            {
+                "head": "G. Ernest Tidwell",
+                "type": "residence",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "1323",
+        "context": "Pemex Director Francisco Rojas told a news conference Wednesday that the production of crude oil , gasoline and petrochemicals had returned to normal .",
+        "id": "1323",
+        "triplets_sentence": "<triplet> Francisco Rojas <peop> Pemex <org> employer",
+        "triples": [
+            {
+                "head": "Francisco Rojas",
+                "type": "employer",
+                "tail": "Pemex"
+            }
+        ]
+    },
+    {
+        "title": "1326",
+        "context": "The government news agency Notimex reported later that leaders of the union 's locals had designated Ricardo Camero Cardiel , a local leader and senator from the northeastern city of Ciudad Madero , the union 's new secretary-general .",
+        "id": "1326",
+        "triplets_sentence": "<triplet> Ricardo Camero Cardiel <peop> Ciudad Madero <loc> residence",
+        "triples": [
+            {
+                "head": "Ricardo Camero Cardiel",
+                "type": "residence",
+                "tail": "Ciudad Madero"
+            }
+        ]
+    },
+    {
+        "title": "1338",
+        "context": "Details of the ` ` friendly ' ' tender offer for Aussedat-Rey SA , Europe 's leading manufacturer of photocopy paper , were not disclosed .",
+        "id": "1338",
+        "triplets_sentence": "<triplet> Aussedat-Rey SA <org> Europe <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Aussedat-Rey SA",
+                "type": "headquarters location",
+                "tail": "Europe"
+            }
+        ]
+    },
+    {
+        "title": "1340",
+        "context": "International Paper spokeswoman Ann Silvernail said that under French law the company was barred from releasing details pending government approval .",
+        "id": "1340",
+        "triplets_sentence": "<triplet> Ann Silvernail <peop> International Paper <org> employer",
+        "triples": [
+            {
+                "head": "Ann Silvernail",
+                "type": "employer",
+                "tail": "International Paper"
+            }
+        ]
+    },
+    {
+        "title": "1354",
+        "context": "GIESSEN , West Germany ( AP )",
+        "id": "1354",
+        "triplets_sentence": "<triplet> GIESSEN <loc> West Germany <loc> location <triplet> AP <org> GIESSEN <loc> headquarters location <org> West Germany <loc> headquarters location",
+        "triples": [
+            {
+                "head": "GIESSEN",
+                "type": "location",
+                "tail": "West Germany"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "GIESSEN"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "West Germany"
+            }
+        ]
+    },
+    {
+        "title": "1368",
+        "context": "While Minox is struggling , the Leica company in nearby Wetzlar , and Rollei in Braunschweig , report business has been good over the past year .",
+        "id": "1368",
+        "triplets_sentence": "<triplet> Leica company <org> Wetzlar <loc> headquarters location <triplet> Rollei <org> Braunschweig <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Leica company",
+                "type": "headquarters location",
+                "tail": "Wetzlar"
+            },
+            {
+                "head": "Rollei",
+                "type": "headquarters location",
+                "tail": "Braunschweig"
+            }
+        ]
+    },
+    {
+        "title": "1369",
+        "context": "Leica spokesman Hans Guenther von Zydowitz told the AP company officals estimate last year 's sales at about $60.6 million , but he declined to estimate profits .",
+        "id": "1369",
+        "triplets_sentence": "<triplet> Hans Guenther von Zydowitz <peop> Leica <org> employer",
+        "triples": [
+            {
+                "head": "Hans Guenther von Zydowitz",
+                "type": "employer",
+                "tail": "Leica"
+            }
+        ]
+    },
+    {
+        "title": "1405",
+        "context": "Analyst Scott Hinton of Elders Futures Inc. said the copper market seemed unsinkable , even though prices have fallen from the record highs reached in early December .",
+        "id": "1405",
+        "triplets_sentence": "<triplet> Scott Hinton <peop> Elders Futures Inc. <org> employer",
+        "triples": [
+            {
+                "head": "Scott Hinton",
+                "type": "employer",
+                "tail": "Elders Futures Inc."
+            }
+        ]
+    },
+    {
+        "title": "1431",
+        "context": "` ` The decision to sell these two newspapers was not an easy one , ' ' said James K. Batten , Knight-Ridder president and chief executive officer .",
+        "id": "1431",
+        "triplets_sentence": "<triplet> James K. Batten <peop> Knight-Ridder <org> employer",
+        "triples": [
+            {
+                "head": "James K. Batten",
+                "type": "employer",
+                "tail": "Knight-Ridder"
+            }
+        ]
+    },
+    {
+        "title": "1443",
+        "context": "Many communities running out of landfill space are eager to ship their bulky , plastic garbage to the Middletown plant , called Eaglebrook East , a branch of Eaglebrook Plastics Inc. of Chicago .",
+        "id": "1443",
+        "triplets_sentence": "<triplet> Eaglebrook Plastics Inc. <org> Chicago <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Eaglebrook Plastics Inc.",
+                "type": "headquarters location",
+                "tail": "Chicago"
+            }
+        ]
+    },
+    {
+        "title": "1471",
+        "context": "BEIRUT , Lebanon ( AP )",
+        "id": "1471",
+        "triplets_sentence": "<triplet> BEIRUT <loc> Lebanon <loc> location <triplet> AP <org> BEIRUT <loc> headquarters location <org> Lebanon <loc> headquarters location",
+        "triples": [
+            {
+                "head": "BEIRUT",
+                "type": "location",
+                "tail": "Lebanon"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "BEIRUT"
+            },
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "Lebanon"
+            }
+        ]
+    },
+    {
+        "title": "1472",
+        "context": "Text of the statement issued by the Organization of the Oppressed on Earth claiming U.S. Marine Lt. William R. Higgins was hanged.",
+        "id": "1472",
+        "triplets_sentence": "<triplet> William R. Higgins <peop> U.S. <loc> residence",
+        "triples": [
+            {
+                "head": "William R. Higgins",
+                "type": "residence",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "1474",
+        "context": "In the name of God , the Merciful , the Compassionate , Since criminal America and the Zionist enemy did not take our decision to execute American spy Higgins seriously , and since Sheik Abdul Karim Obeid and his two brethren were not freed by the specified deadline out of disdain for our ultimatum , the life of Higgins and our sacred sanctities , and to implement God 's just will , the execution of American spy Higgins has been carried out by hanging at 3 p.m. this Monday afternoon 28 Zul Hijja , 1409 Hegira , which coincides with July 31 , 1989 A.D. He will be an example for those who fear the day of reckoning.",
+        "id": "1474",
+        "triplets_sentence": "<triplet> Higgins <peop> America <loc> residence <triplet> Higgins <peop> America <loc> residence <triplet> Higgins <peop> America <loc> residence",
+        "triples": [
+            {
+                "head": "Higgins",
+                "type": "residence",
+                "tail": "America"
+            },
+            {
+                "head": "Higgins",
+                "type": "residence",
+                "tail": "America"
+            },
+            {
+                "head": "Higgins",
+                "type": "residence",
+                "tail": "America"
+            }
+        ]
+    },
+    {
+        "title": "1552",
+        "context": "Pat Epps and other members of the Greenland Expedition Society suffered hunger , cold and sunburn in the hunt for the ` ` lost squadron , ' ' eight aircraft which crash landed in Greenland in 1942.",
+        "id": "1552",
+        "triplets_sentence": "<triplet> Pat Epps <peop> Greenland Expedition Society <org> employer",
+        "triples": [
+            {
+                "head": "Pat Epps",
+                "type": "employer",
+                "tail": "Greenland Expedition Society"
+            }
+        ]
+    },
+    {
+        "title": "1563",
+        "context": "Vaughan , a dog musher and Army Air Force officer , was sent by dogsled in 1942 to make sure top-secret bombsights on the bombers were destroyed or brought back.",
+        "id": "1563",
+        "triplets_sentence": "<triplet> Vaughan <peop> Air Force <org> employer",
+        "triples": [
+            {
+                "head": "Vaughan",
+                "type": "employer",
+                "tail": "Air Force"
+            }
+        ]
+    },
+    {
+        "title": "1580",
+        "context": "` ` What we have witnessed , in the Israeli retaliation in kind for the kidnapping of their people , ( is ) that violence truly does beget violence and that I hope the United States will use this opportunity for reconciliation rather than retaliation , ' ' Mrs. Say said in an interview from her home near Cadiz in western Kentucky.",
+        "id": "1580",
+        "triplets_sentence": "<triplet> Mrs. Say <peop> Kentucky. <loc> residence <triplet> Cadiz <loc> Kentucky. <loc> location",
+        "triples": [
+            {
+                "head": "Mrs. Say",
+                "type": "residence",
+                "tail": "Kentucky."
+            },
+            {
+                "head": "Cadiz",
+                "type": "location",
+                "tail": "Kentucky."
+            }
+        ]
+    },
+    {
+        "title": "1628",
+        "context": "NEW ORLEANS ( AP )",
+        "id": "1628",
+        "triplets_sentence": "<triplet> AP <org> NEW ORLEANS <loc> headquarters location",
+        "triples": [
+            {
+                "head": "AP",
+                "type": "headquarters location",
+                "tail": "NEW ORLEANS"
+            }
+        ]
+    },
+    {
+        "title": "1640",
+        "context": "Pacific Marine Inc. of Houston , was about 15 miles east of Grand Isle.",
+        "id": "1640",
+        "triplets_sentence": "<triplet> Pacific Marine Inc. <org> Houston <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Pacific Marine Inc.",
+                "type": "headquarters location",
+                "tail": "Houston"
+            }
+        ]
+    },
+    {
+        "title": "1648",
+        "context": "` ` Right now , the fire season is just starting to gear up , ' ' said Sandi Sacher , spokeswoman at the federal government 's wildfire command post in Boise , Idaho.",
+        "id": "1648",
+        "triplets_sentence": "<triplet> Boise <loc> Idaho. <loc> location",
+        "triples": [
+            {
+                "head": "Boise",
+                "type": "location",
+                "tail": "Idaho."
+            }
+        ]
+    },
+    {
+        "title": "1689",
+        "context": "` ` He is the same easy-going , soft-spoken , self-effacing man we knew as governor of New Hampshire , ' ' said Virginia Gov. Gerald Baliles , a Democrat.",
+        "id": "1689",
+        "triplets_sentence": "<triplet> Gerald Baliles <peop> Virginia <loc> residence",
+        "triples": [
+            {
+                "head": "Gerald Baliles",
+                "type": "residence",
+                "tail": "Virginia"
+            }
+        ]
+    },
+    {
+        "title": "1731",
+        "context": "In May , the Bush administration and the 12-nation European Community reached an interim agreement that allowed resumption of sales of about 15 percent of the $100 million in U.S. beef exports to Europe.",
+        "id": "1731",
+        "triplets_sentence": "<triplet> Bush <peop> U.S. <loc> residence <triplet> European Community <org> Europe. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Bush",
+                "type": "residence",
+                "tail": "U.S."
+            },
+            {
+                "head": "European Community",
+                "type": "headquarters location",
+                "tail": "Europe."
+            }
+        ]
+    },
+    {
+        "title": "1769",
+        "context": "In a travel advisory issued Monday , the State Department said there have been ` ` a few instances of attacks on tourists ' ' in Kenya , particularly ` ` along the coast south of Mombasa and in remote areas of the country , including some national parks.",
+        "id": "1769",
+        "triplets_sentence": "<triplet> Mombasa <loc> Kenya <loc> location",
+        "triples": [
+            {
+                "head": "Mombasa",
+                "type": "location",
+                "tail": "Kenya"
+            }
+        ]
+    },
+    {
+        "title": "1773",
+        "context": "With China 's crackdown on the democracy movement , ` ` the truth is finally coming out of the cruel nature of communism , ' ' said Shaw Yu-ming , director-general of Government Information , at the opening of Taiwan 's new downtown Washington information center.",
+        "id": "1773",
+        "triplets_sentence": "<triplet> Shaw Yu-ming <peop> Government Information <org> employer",
+        "triples": [
+            {
+                "head": "Shaw Yu-ming",
+                "type": "employer",
+                "tail": "Government Information"
+            }
+        ]
+    },
+    {
+        "title": "1776",
+        "context": "The Taiwan information center provides background and research material on China at a suite of offices in Washington 's National Press Building , where several hundred U.S. and international news organizations also have bureaus.",
+        "id": "1776",
+        "triplets_sentence": "<triplet> National Press Building <loc> Washington <loc> location",
+        "triples": [
+            {
+                "head": "National Press Building",
+                "type": "location",
+                "tail": "Washington"
+            }
+        ]
+    },
+    {
+        "title": "1785",
+        "context": "The drug is an active ingredient in products sold under the trade name Phenergan , made by Wyeth-Ayerst Laboratories of Philadelphia.",
+        "id": "1785",
+        "triplets_sentence": "<triplet> Wyeth-Ayerst Laboratories <org> Philadelphia. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Wyeth-Ayerst Laboratories",
+                "type": "headquarters location",
+                "tail": "Philadelphia."
+            }
+        ]
+    },
+    {
+        "title": "1794",
+        "context": "Heavier rainfall during the 6 hours ending at 2 a.m. EDT included 1 -LCB- inches at Cape Hatteras , N.C. , and almost an inch at Jacksonville , N.C. , and Dodge City , Kan.",
+        "id": "1794",
+        "triplets_sentence": "<triplet> Cape Hatteras <loc> N.C. <loc> location <triplet> Jacksonville <loc> N.C. <loc> location <triplet> Dodge City <loc> Kan. <loc> location",
+        "triples": [
+            {
+                "head": "Cape Hatteras",
+                "type": "location",
+                "tail": "N.C."
+            },
+            {
+                "head": "Jacksonville",
+                "type": "location",
+                "tail": "N.C."
+            },
+            {
+                "head": "Dodge City",
+                "type": "location",
+                "tail": "Kan."
+            }
+        ]
+    },
+    {
+        "title": "1797",
+        "context": "Temperatures around the nation at 3 a.m. EDT ranged from 44 degrees at Klamath Falls , Ore. , to 91 degrees at Yuma , Ariz.",
+        "id": "1797",
+        "triplets_sentence": "<triplet> Klamath Falls <loc> Ore. <loc> location <triplet> Yuma <loc> Ariz. <loc> location",
+        "triples": [
+            {
+                "head": "Klamath Falls",
+                "type": "location",
+                "tail": "Ore."
+            },
+            {
+                "head": "Yuma",
+                "type": "location",
+                "tail": "Ariz."
+            }
+        ]
+    },
+    {
+        "title": "1842",
+        "context": "About 1 , 000 soldiers from Fort Lewis , Wash. , were summoned to Oregon for on-the-job training before being thrown on to the front lines.",
+        "id": "1842",
+        "triplets_sentence": "<triplet> Fort Lewis <loc> Wash. <loc> location",
+        "triples": [
+            {
+                "head": "Fort Lewis",
+                "type": "location",
+                "tail": "Wash."
+            }
+        ]
+    },
+    {
+        "title": "1844",
+        "context": "` ` We 're in for a long haul , ' ' said Dave Olson of the Payette National Forest in Idaho , where more than 200 fires continued to burn.",
+        "id": "1844",
+        "triplets_sentence": "<triplet> Dave Olson <peop> Idaho <loc> residence <triplet> Payette National Forest <loc> Idaho <loc> location",
+        "triples": [
+            {
+                "head": "Dave Olson",
+                "type": "residence",
+                "tail": "Idaho"
+            },
+            {
+                "head": "Payette National Forest",
+                "type": "location",
+                "tail": "Idaho"
+            }
+        ]
+    },
+    {
+        "title": "1852",
+        "context": "About 2 , 900 firefighters were battling blazes in the Wallowa-Whitman and the Malheur national forests near the towns of Baker , Unity , Enterprise and John Day , said Forest Service spokesman Mike Ferris.",
+        "id": "1852",
+        "triplets_sentence": "<triplet> Mike Ferris. <peop> Forest Service <org> employer",
+        "triples": [
+            {
+                "head": "Mike Ferris.",
+                "type": "employer",
+                "tail": "Forest Service"
+            }
+        ]
+    },
+    {
+        "title": "1885",
+        "context": "Also on the GOP ballot are insurance broker David Fleischer and former North Miami Mayor John Stembridge.",
+        "id": "1885",
+        "triplets_sentence": "<triplet> John Stembridge. <peop> North Miami <loc> residence",
+        "triples": [
+            {
+                "head": "John Stembridge.",
+                "type": "residence",
+                "tail": "North Miami"
+            }
+        ]
+    },
+    {
+        "title": "1914",
+        "context": "` ` NRC has a broad programmatic concern that the pressure to meet unrealistic schedule milestones may leave DOE insufficient time to plan and to execute proper technical information-gathering activities , ' ' said Robert Bernero , chief of waste disposal for the commission.",
+        "id": "1914",
+        "triplets_sentence": "<triplet> Robert Bernero <peop> NRC <org> employer",
+        "triples": [
+            {
+                "head": "Robert Bernero",
+                "type": "employer",
+                "tail": "NRC"
+            }
+        ]
+    },
+    {
+        "title": "1936",
+        "context": "Khmer Rouge leader Khieu Samphan had raised objections to the investigation mission and other aspects of today 's agreements.",
+        "id": "1936",
+        "triplets_sentence": "<triplet> Khieu Samphan <peop> Khmer Rouge <org> employer",
+        "triples": [
+            {
+                "head": "Khieu Samphan",
+                "type": "employer",
+                "tail": "Khmer Rouge"
+            }
+        ]
+    },
+    {
+        "title": "1946",
+        "context": "On Monday , one man was lost from an oil rig off Grand Isle , La. , as the storm moved in.",
+        "id": "1946",
+        "triplets_sentence": "<triplet> Grand Isle <loc> La. <loc> location",
+        "triples": [
+            {
+                "head": "Grand Isle",
+                "type": "location",
+                "tail": "La."
+            }
+        ]
+    },
+    {
+        "title": "1965",
+        "context": "Port Arthur Mayor Malcolm Grant asked the 800 residents of Sabine Pass to evacuate the coastal community just west of the Louisiana line , citing the likelihood of high water closing the only highway between the town and Port Arthur.",
+        "id": "1965",
+        "triplets_sentence": "<triplet> Malcolm Grant <peop> Port Arthur <loc> residence <peop> Port Arthur. <loc> residence",
+        "triples": [
+            {
+                "head": "Malcolm Grant",
+                "type": "residence",
+                "tail": "Port Arthur"
+            },
+            {
+                "head": "Malcolm Grant",
+                "type": "residence",
+                "tail": "Port Arthur."
+            }
+        ]
+    },
+    {
+        "title": "1968",
+        "context": "` ` If they tell us to get out , we get out , ' ' said Lutie Dyson , 62 , who with her husband and about 65 others took shelter in a school in Lake Charles , La.",
+        "id": "1968",
+        "triplets_sentence": "<triplet> Lutie Dyson <peop> Lake Charles <loc> residence <peop> La. <loc> residence <triplet> Lake Charles <loc> La. <loc> location",
+        "triples": [
+            {
+                "head": "Lutie Dyson",
+                "type": "residence",
+                "tail": "Lake Charles"
+            },
+            {
+                "head": "Lutie Dyson",
+                "type": "residence",
+                "tail": "La."
+            },
+            {
+                "head": "Lake Charles",
+                "type": "location",
+                "tail": "La."
+            }
+        ]
+    },
+    {
+        "title": "1996",
+        "context": "The DEM outlawed plastic ducks in Rhode Island waterways after a race in Warwick sent 7 , 000 toy ducks floating down the Pawtuxet River.",
+        "id": "1996",
+        "triplets_sentence": "<triplet> Warwick <loc> Rhode Island <loc> location <triplet> Pawtuxet River. <loc> Rhode Island <loc> location <loc> Warwick <loc> location",
+        "triples": [
+            {
+                "head": "Warwick",
+                "type": "location",
+                "tail": "Rhode Island"
+            },
+            {
+                "head": "Pawtuxet River.",
+                "type": "location",
+                "tail": "Rhode Island"
+            },
+            {
+                "head": "Pawtuxet River.",
+                "type": "location",
+                "tail": "Warwick"
+            }
+        ]
+    },
+    {
+        "title": "2003",
+        "context": "The real lucky duck was Tom Defelice of Warwick , who won a vacation for four at Disney World in Florida after his duck crossed the finish line first in 51 : 15.",
+        "id": "2003",
+        "triplets_sentence": "<triplet> Tom Defelice <peop> Warwick <loc> residence <triplet> Disney World <loc> Florida <loc> location",
+        "triples": [
+            {
+                "head": "Tom Defelice",
+                "type": "residence",
+                "tail": "Warwick"
+            },
+            {
+                "head": "Disney World",
+                "type": "location",
+                "tail": "Florida"
+            }
+        ]
+    },
+    {
+        "title": "2010",
+        "context": "U.S. District Judge Sherman Finesilver , who ordered the investigation at the request of Acting John C. Keene , said that the 23-member panel would serve for 18 months and that the term could be extended another 18 months.",
+        "id": "2010",
+        "triplets_sentence": "<triplet> Sherman Finesilver <peop> U.S. <loc> residence",
+        "triples": [
+            {
+                "head": "Sherman Finesilver",
+                "type": "residence",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "2112",
+        "context": "Iowa Republican Terry Branstad was installed as new chairman of the bipartisan National Governors ' Association , and Democrat Booth Gardner of Washington was selected to serve as vice to follow Branstad as chairman in a year.",
+        "id": "2112",
+        "triplets_sentence": "<triplet> Terry Branstad <peop> Iowa <loc> residence <peop> National Governors ' Association <org> employer <triplet> Booth Gardner <peop> National Governors ' Association <org> employer <peop> Washington <loc> residence <triplet> Branstad <peop> Iowa <loc> residence <peop> National Governors ' Association <org> employer",
+        "triples": [
+            {
+                "head": "Terry Branstad",
+                "type": "residence",
+                "tail": "Iowa"
+            },
+            {
+                "head": "Terry Branstad",
+                "type": "employer",
+                "tail": "National Governors ' Association"
+            },
+            {
+                "head": "Booth Gardner",
+                "type": "employer",
+                "tail": "National Governors ' Association"
+            },
+            {
+                "head": "Booth Gardner",
+                "type": "residence",
+                "tail": "Washington"
+            },
+            {
+                "head": "Branstad",
+                "type": "residence",
+                "tail": "Iowa"
+            },
+            {
+                "head": "Branstad",
+                "type": "employer",
+                "tail": "National Governors ' Association"
+            }
+        ]
+    },
+    {
+        "title": "2116",
+        "context": "One was Idaho Gov. Cecil Andrus , who said he needed to deal with forest fires that have become ` ` totally out of control. ' '",
+        "id": "2116",
+        "triplets_sentence": "<triplet> Cecil Andrus <peop> Idaho <loc> residence",
+        "triples": [
+            {
+                "head": "Cecil Andrus",
+                "type": "residence",
+                "tail": "Idaho"
+            }
+        ]
+    },
+    {
+        "title": "2140",
+        "context": "In turn , Vietnam and the Cambodian government of Prime Hun Sen agreed to the fact-finding mission under the auspices of U.N. Secretary-General Javier Perez de Cuellar.",
+        "id": "2140",
+        "triplets_sentence": "<triplet> Javier Perez de Cuellar. <peop> U.N. <org> employer",
+        "triples": [
+            {
+                "head": "Javier Perez de Cuellar.",
+                "type": "employer",
+                "tail": "U.N."
+            }
+        ]
+    },
+    {
+        "title": "2156",
+        "context": "Moderators are required to keep conversations from getting too personal and disconnect abusive callers , said Bernice McIntyre , chairman of the Public Utilities Commission.",
+        "id": "2156",
+        "triplets_sentence": "<triplet> Bernice McIntyre <peop> Public Utilities Commission. <org> employer",
+        "triples": [
+            {
+                "head": "Bernice McIntyre",
+                "type": "employer",
+                "tail": "Public Utilities Commission."
+            }
+        ]
+    },
+    {
+        "title": "2229",
+        "context": "In final arguments after a two-week trial in U.S. District Court , lawyers for families of the victims said Flight 007 was off course almost from the minute it left the ground in Anchorage , Alaska , and headed to its Pacific Ocean route for Seoul , South Korea.",
+        "id": "2229",
+        "triplets_sentence": "<triplet> Anchorage <loc> Alaska <loc> location <triplet> Seoul <loc> South Korea. <loc> location",
+        "triples": [
+            {
+                "head": "Anchorage",
+                "type": "location",
+                "tail": "Alaska"
+            },
+            {
+                "head": "Seoul",
+                "type": "location",
+                "tail": "South Korea."
+            }
+        ]
+    },
+    {
+        "title": "2254",
+        "context": "Mason assured the congresswoman that HHS Secretary Louis Sullivan ` ` is a very squeaky secretary. ' '",
+        "id": "2254",
+        "triplets_sentence": "<triplet> Louis Sullivan <peop> HHS <org> employer",
+        "triples": [
+            {
+                "head": "Louis Sullivan",
+                "type": "employer",
+                "tail": "HHS"
+            }
+        ]
+    },
+    {
+        "title": "2300",
+        "context": "But , as in many past cases dealing with the U.S. hostages , such considerations are not viewed from a strictly limited military point of view , the Pentagon officials noted.",
+        "id": "2300",
+        "triplets_sentence": "<triplet> Pentagon <org> U.S. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Pentagon",
+                "type": "headquarters location",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "2308",
+        "context": "The Revolutionary Justice Organization announced Cicippio 's reprieve in a 13-line handwritten statement in Arabic delivered to the independent Beirut newspaper An-Nahar.",
+        "id": "2308",
+        "triplets_sentence": "<triplet> An-Nahar. <org> Beirut <loc> headquarters location",
+        "triples": [
+            {
+                "head": "An-Nahar.",
+                "type": "headquarters location",
+                "tail": "Beirut"
+            }
+        ]
+    },
+    {
+        "title": "2312",
+        "context": "Anderson , 41 , was the chief Middle East correspondent for The Associated Press when he was kidnapped in Beirut on March 16 , 1985.",
+        "id": "2312",
+        "triplets_sentence": "<triplet> Anderson <peop> Middle East <loc> residence <peop> The Associated Press <org> employer <triplet> The Associated Press <org> Middle East <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Anderson",
+                "type": "residence",
+                "tail": "Middle East"
+            },
+            {
+                "head": "Anderson",
+                "type": "employer",
+                "tail": "The Associated Press"
+            },
+            {
+                "head": "The Associated Press",
+                "type": "headquarters location",
+                "tail": "Middle East"
+            }
+        ]
+    },
+    {
+        "title": "2314",
+        "context": "Jacobsen , speaking from his Colorado home , said sources in London told him that Anderson was to be freed last Saturday by the new Iranian government as a gesture of good will.",
+        "id": "2314",
+        "triplets_sentence": "<triplet> Jacobsen <peop> Colorado <loc> residence",
+        "triples": [
+            {
+                "head": "Jacobsen",
+                "type": "residence",
+                "tail": "Colorado"
+            }
+        ]
+    },
+    {
+        "title": "2328",
+        "context": "Wyatt McCauley , spokesman for CH2M Hill , did not immediately return a phone call to his office in Denver.",
+        "id": "2328",
+        "triplets_sentence": "<triplet> Wyatt McCauley <peop> CH2M Hill <org> employer",
+        "triples": [
+            {
+                "head": "Wyatt McCauley",
+                "type": "employer",
+                "tail": "CH2M Hill"
+            }
+        ]
+    },
+    {
+        "title": "2383",
+        "context": "Heavier rainfall during the six hours ending at 2 p.m. EDT included nearly 7 - inches at Houston , and 4 inches at Ellington Air Force Base and Galveston , Texas.",
+        "id": "2383",
+        "triplets_sentence": "<triplet> Houston <loc> Texas. <loc> location <triplet> Ellington Air Force Base <loc> Texas. <loc> location <triplet> Galveston <loc> Texas. <loc> location",
+        "triples": [
+            {
+                "head": "Houston",
+                "type": "location",
+                "tail": "Texas."
+            },
+            {
+                "head": "Ellington Air Force Base",
+                "type": "location",
+                "tail": "Texas."
+            },
+            {
+                "head": "Galveston",
+                "type": "location",
+                "tail": "Texas."
+            }
+        ]
+    },
+    {
+        "title": "2416",
+        "context": "The president also said William P. Albrecht will remain a commissioner of the Commodity Futures Trading Commission.",
+        "id": "2416",
+        "triplets_sentence": "<triplet> William P. Albrecht <peop> Commodity Futures Trading Commission. <org> employer",
+        "triples": [
+            {
+                "head": "William P. Albrecht",
+                "type": "employer",
+                "tail": "Commodity Futures Trading Commission."
+            }
+        ]
+    },
+    {
+        "title": "2481",
+        "context": "The dead woman was identified as Debra Sweiger of Issaquah , said King County O Investigator Vaughn Van Zant.",
+        "id": "2481",
+        "triplets_sentence": "<triplet> Debra Sweiger <peop> Issaquah <loc> residence <peop> King County <loc> residence <triplet> Issaquah <loc> King County <loc> location <triplet> Vaughn Van Zant. <peop> King County <loc> residence",
+        "triples": [
+            {
+                "head": "Debra Sweiger",
+                "type": "residence",
+                "tail": "Issaquah"
+            },
+            {
+                "head": "Debra Sweiger",
+                "type": "residence",
+                "tail": "King County"
+            },
+            {
+                "head": "Issaquah",
+                "type": "location",
+                "tail": "King County"
+            },
+            {
+                "head": "Vaughn Van Zant.",
+                "type": "residence",
+                "tail": "King County"
+            }
+        ]
+    },
+    {
+        "title": "2493",
+        "context": "Working with U.S. Mike Norton on the case are Assistant Ken Fimberg of Denver and Peter Murtha , a special prosecutor in the environmental crime section of the Justice Department in Washington.",
+        "id": "2493",
+        "triplets_sentence": "<triplet> Mike Norton <peop> U.S. <loc> residence <triplet> Ken Fimberg <peop> Denver <loc> residence <triplet> Peter Murtha <peop> U.S. <loc> residence <peop> Justice Department <org> employer <peop> Washington. <loc> residence <triplet> Justice Department <org> U.S. <loc> headquarters location <org> Washington. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Mike Norton",
+                "type": "residence",
+                "tail": "U.S."
+            },
+            {
+                "head": "Ken Fimberg",
+                "type": "residence",
+                "tail": "Denver"
+            },
+            {
+                "head": "Peter Murtha",
+                "type": "residence",
+                "tail": "U.S."
+            },
+            {
+                "head": "Peter Murtha",
+                "type": "employer",
+                "tail": "Justice Department"
+            },
+            {
+                "head": "Peter Murtha",
+                "type": "residence",
+                "tail": "Washington."
+            },
+            {
+                "head": "Justice Department",
+                "type": "headquarters location",
+                "tail": "U.S."
+            },
+            {
+                "head": "Justice Department",
+                "type": "headquarters location",
+                "tail": "Washington."
+            }
+        ]
+    },
+    {
+        "title": "2522",
+        "context": "Kim Dae-jung , head of South Korea 's leading opposition party , was detained on a court warrant Wednesday for questioning in connection with a party lawmaker 's illegal trip to communist North Korea.",
+        "id": "2522",
+        "triplets_sentence": "<triplet> Kim Dae-jung <peop> South Korea <loc> residence",
+        "triples": [
+            {
+                "head": "Kim Dae-jung",
+                "type": "residence",
+                "tail": "South Korea"
+            }
+        ]
+    },
+    {
+        "title": "2559",
+        "context": "In Washington state , an 850-acre fire burning in the Cascade range near the Canadian border was 84 percent contained Tuesday , said Greg Thayer of the U.S. Forest Service.",
+        "id": "2559",
+        "triplets_sentence": "<triplet> Cascade <loc> Washington <loc> location <triplet> Greg Thayer <peop> U.S. Forest Service. <org> employer",
+        "triples": [
+            {
+                "head": "Cascade",
+                "type": "location",
+                "tail": "Washington"
+            },
+            {
+                "head": "Greg Thayer",
+                "type": "employer",
+                "tail": "U.S. Forest Service."
+            }
+        ]
+    },
+    {
+        "title": "2561",
+        "context": "In California 's Sierra Nevada foothills , firefighters on Tuesday contained a blaze that burned 11 , 700 acres of brush and grassland and destroyed seven homes.",
+        "id": "2561",
+        "triplets_sentence": "<triplet> Sierra Nevada <loc> California <loc> location",
+        "triples": [
+            {
+                "head": "Sierra Nevada",
+                "type": "location",
+                "tail": "California"
+            }
+        ]
+    },
+    {
+        "title": "2626",
+        "context": "Nearly all of the West 's forest firefighting crews were on front lines in Idaho , Oregon , California and Washington , prompting the call for help elsewhere , said strategists at the Boise Interagency Fire Center directing the fire fights.",
+        "id": "2626",
+        "triplets_sentence": "<triplet> Idaho <loc> West <loc> location <triplet> Oregon <loc> West <loc> location <triplet> California <loc> West <loc> location <triplet> Washington <loc> West <loc> location",
+        "triples": [
+            {
+                "head": "Idaho",
+                "type": "location",
+                "tail": "West"
+            },
+            {
+                "head": "Oregon",
+                "type": "location",
+                "tail": "West"
+            },
+            {
+                "head": "California",
+                "type": "location",
+                "tail": "West"
+            },
+            {
+                "head": "Washington",
+                "type": "location",
+                "tail": "West"
+            }
+        ]
+    },
+    {
+        "title": "2628",
+        "context": "One was Idaho Gov. Cecil Andrus , who said he needed to deal with forest fires that have become ` ` totally out of control. ' '",
+        "id": "2628",
+        "triplets_sentence": "<triplet> Cecil Andrus <peop> Idaho <loc> residence",
+        "triples": [
+            {
+                "head": "Cecil Andrus",
+                "type": "residence",
+                "tail": "Idaho"
+            }
+        ]
+    },
+    {
+        "title": "2640",
+        "context": "Eds : The AP LaserPhoto network will carry a series of pictures by staff Photographer Jeff Widener showing scenes of Bangkok slum.",
+        "id": "2640",
+        "triplets_sentence": "<triplet> Jeff Widener <peop> AP <org> employer",
+        "triples": [
+            {
+                "head": "Jeff Widener",
+                "type": "employer",
+                "tail": "AP"
+            }
+        ]
+    },
+    {
+        "title": "2644",
+        "context": "To most outsiders Bangkok 's largest slum , Klong Toey , is a repulsive maze of densely packed shacks tottering over a marsh awash in garbage and other reeking waste.",
+        "id": "2644",
+        "triplets_sentence": "<triplet> Klong Toey <loc> Bangkok <loc> location",
+        "triples": [
+            {
+                "head": "Klong Toey",
+                "type": "location",
+                "tail": "Bangkok"
+            }
+        ]
+    },
+    {
+        "title": "2697",
+        "context": "Arensberg and a group of nine other professors directed by Ofer Bar-Yosef of Harvard University and Bernard Vandermeersch of the University of Bordeaux in France have studied the findings at Kebara for the past six years.",
+        "id": "2697",
+        "triplets_sentence": "<triplet> Ofer Bar-Yosef <peop> Harvard University <org> employer <triplet> Bernard Vandermeersch <peop> University of Bordeaux <org> employer <peop> France <loc> residence <triplet> University of Bordeaux <org> France <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Ofer Bar-Yosef",
+                "type": "employer",
+                "tail": "Harvard University"
+            },
+            {
+                "head": "Bernard Vandermeersch",
+                "type": "employer",
+                "tail": "University of Bordeaux"
+            },
+            {
+                "head": "Bernard Vandermeersch",
+                "type": "residence",
+                "tail": "France"
+            },
+            {
+                "head": "University of Bordeaux",
+                "type": "headquarters location",
+                "tail": "France"
+            }
+        ]
+    },
+    {
+        "title": "2748",
+        "context": "` ` The problem is very clear to us , ' ' says Sen. Carlos Tenev of the governing Peronist Party , which now is trying to sell companies it nationalized in the early days of Peron.",
+        "id": "2748",
+        "triplets_sentence": "<triplet> Carlos Tenev <peop> Peronist Party <org> employer",
+        "triples": [
+            {
+                "head": "Carlos Tenev",
+                "type": "employer",
+                "tail": "Peronist Party"
+            }
+        ]
+    },
+    {
+        "title": "2774",
+        "context": "The problem is not unusual in Guernsey , one of Britain 's Channel Islands off the coast of France.",
+        "id": "2774",
+        "triplets_sentence": "<triplet> Guernsey <loc> Britain <loc> location <loc> Channel Islands <loc> location <triplet> Channel Islands <loc> Britain <loc> location",
+        "triples": [
+            {
+                "head": "Guernsey",
+                "type": "location",
+                "tail": "Britain"
+            },
+            {
+                "head": "Guernsey",
+                "type": "location",
+                "tail": "Channel Islands"
+            },
+            {
+                "head": "Channel Islands",
+                "type": "location",
+                "tail": "Britain"
+            }
+        ]
+    },
+    {
+        "title": "2838",
+        "context": "Jack MacAllister , chairman of U S West inc. , said the Hong Kong franchise represents a major international opportunity for the company.",
+        "id": "2838",
+        "triplets_sentence": "<triplet> Jack MacAllister <peop> U S West inc. <org> employer",
+        "triples": [
+            {
+                "head": "Jack MacAllister",
+                "type": "employer",
+                "tail": "U S West inc."
+            }
+        ]
+    },
+    {
+        "title": "2901",
+        "context": "Jean-Luckenson for Signal FM. ( end recording )",
+        "id": "2901",
+        "triplets_sentence": "<triplet> Jean-Luckenson <peop> Signal FM. <org> employer",
+        "triples": [
+            {
+                "head": "Jean-Luckenson",
+                "type": "employer",
+                "tail": "Signal FM."
+            }
+        ]
+    },
+    {
+        "title": "2923",
+        "context": "Respectfully yours , from the Mexican Southeast. ( Signed ) CCRI-CG of the EZLN ( Dated ) Mexico , March 1994",
+        "id": "2923",
+        "triplets_sentence": "<triplet> Mexican Southeast. <loc> Mexico <loc> location <triplet> EZLN <org> Mexican Southeast. <loc> headquarters location <org> Mexico <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Mexican Southeast.",
+                "type": "location",
+                "tail": "Mexico"
+            },
+            {
+                "head": "EZLN",
+                "type": "headquarters location",
+                "tail": "Mexican Southeast."
+            },
+            {
+                "head": "EZLN",
+                "type": "headquarters location",
+                "tail": "Mexico"
+            }
+        ]
+    },
+    {
+        "title": "2976",
+        "context": "Further Reaction to Iranian Plane Crash Experts : Reconnaissance Mission Theory LD2103194094 Moscow ITAR-TASS in English 1924 GMT 21 Mar 94",
+        "id": "2976",
+        "triplets_sentence": "<triplet> ITAR-TASS <org> Moscow <loc> headquarters location",
+        "triples": [
+            {
+                "head": "ITAR-TASS",
+                "type": "headquarters location",
+                "tail": "Moscow"
+            }
+        ]
+    },
+    {
+        "title": "2977",
+        "context": "Moscow ITAR-TASS",
+        "id": "2977",
+        "triplets_sentence": "<triplet> ITAR-TASS <org> Moscow <loc> headquarters location",
+        "triples": [
+            {
+                "head": "ITAR-TASS",
+                "type": "headquarters location",
+                "tail": "Moscow"
+            }
+        ]
+    },
+    {
+        "title": "2979",
+        "context": "The plane had to fly through the Armenian airspace bound for Tehran , but deviated 100 kilometres from the route for unknown reasons and hit the ground several miles of ( as received ) Stepanakert , the adminstrative centre of the break-away Nagorno-Karabakh province of Azerbaijan.",
+        "id": "2979",
+        "triplets_sentence": "<triplet> Stepanakert <loc> Nagorno-Karabakh <loc> location <triplet> Nagorno-Karabakh <loc> Azerbaijan. <loc> location",
+        "triples": [
+            {
+                "head": "Stepanakert",
+                "type": "location",
+                "tail": "Nagorno-Karabakh"
+            },
+            {
+                "head": "Nagorno-Karabakh",
+                "type": "location",
+                "tail": "Azerbaijan."
+            }
+        ]
+    },
+    {
+        "title": "3023",
+        "context": "( Interview with National Alliance leader Gianfranco Fini by",
+        "id": "3023",
+        "triplets_sentence": "<triplet> Gianfranco Fini <peop> National Alliance <org> employer",
+        "triples": [
+            {
+                "head": "Gianfranco Fini",
+                "type": "employer",
+                "tail": "National Alliance"
+            }
+        ]
+    },
+    {
+        "title": "3074",
+        "context": "( Text ) The situation remains explosive in Namialo assembly area , in Nampula Province , where the government soldiers with the former Northern Improvement Brigade ( Brigada de Melhoramentos do Norte ) , BMN , and others in the Nampula Provincial Command continue to wait for the outcome of their demands .",
+        "id": "3074",
+        "triplets_sentence": "<triplet> Nampula Province <loc> Namialo <loc> location <triplet> Northern Improvement Brigade <org> Namialo <loc> headquarters location <org> Nampula Province <loc> headquarters location <org> Nampula <loc> headquarters location <triplet> Brigada de Melhoramentos do Norte <org> Namialo <loc> headquarters location <org> Nampula Province <loc> headquarters location <org> Nampula <loc> headquarters location <triplet> BMN <org> Namialo <loc> headquarters location <org> Nampula Province <loc> headquarters location <org> Nampula <loc> headquarters location <triplet> Nampula <loc> Namialo <loc> location",
+        "triples": [
+            {
+                "head": "Nampula Province",
+                "type": "location",
+                "tail": "Namialo"
+            },
+            {
+                "head": "Northern Improvement Brigade",
+                "type": "headquarters location",
+                "tail": "Namialo"
+            },
+            {
+                "head": "Northern Improvement Brigade",
+                "type": "headquarters location",
+                "tail": "Nampula Province"
+            },
+            {
+                "head": "Northern Improvement Brigade",
+                "type": "headquarters location",
+                "tail": "Nampula"
+            },
+            {
+                "head": "Brigada de Melhoramentos do Norte",
+                "type": "headquarters location",
+                "tail": "Namialo"
+            },
+            {
+                "head": "Brigada de Melhoramentos do Norte",
+                "type": "headquarters location",
+                "tail": "Nampula Province"
+            },
+            {
+                "head": "Brigada de Melhoramentos do Norte",
+                "type": "headquarters location",
+                "tail": "Nampula"
+            },
+            {
+                "head": "BMN",
+                "type": "headquarters location",
+                "tail": "Namialo"
+            },
+            {
+                "head": "BMN",
+                "type": "headquarters location",
+                "tail": "Nampula Province"
+            },
+            {
+                "head": "BMN",
+                "type": "headquarters location",
+                "tail": "Nampula"
+            },
+            {
+                "head": "Nampula",
+                "type": "location",
+                "tail": "Namialo"
+            }
+        ]
+    },
+    {
+        "title": "3128",
+        "context": "` Expanded Equilibrium ' in Framework Talks Urged OW0702031494 Tokyo NIHON KEIZAI SHIMBUN in Japanese 6 Feb 94 Morning Edition p 2 -- FOR OFFICIAL USE ONLY",
+        "id": "3128",
+        "triplets_sentence": "<triplet> NIHON KEIZAI SHIMBUN <org> Tokyo <loc> headquarters location",
+        "triples": [
+            {
+                "head": "NIHON KEIZAI SHIMBUN",
+                "type": "headquarters location",
+                "tail": "Tokyo"
+            }
+        ]
+    },
+    {
+        "title": "3226",
+        "context": "At the proposal of the Serb Radical Party ( SRS ) , the Assembly , by a majority , elected political Branko Vojnic from Beli Manastir as its speaker , while Marko Atlagic and Dr. Milan Ernjakovic , Krajina Serb Democratic Party ( SDS ) candidates , were elected as deputy speakers .",
+        "id": "3226",
+        "triplets_sentence": "<triplet> Branko Vojnic <peop> Beli Manastir <loc> residence <triplet> Marko Atlagic <peop> Serb Democratic Party <org> employer <peop> SDS <org> employer <triplet> Milan Ernjakovic <peop> Serb Democratic Party <org> employer <peop> SDS <org> employer <triplet> Krajina <peop> Serb Democratic Party <org> employer <peop> SDS <org> employer",
+        "triples": [
+            {
+                "head": "Branko Vojnic",
+                "type": "residence",
+                "tail": "Beli Manastir"
+            },
+            {
+                "head": "Marko Atlagic",
+                "type": "employer",
+                "tail": "Serb Democratic Party"
+            },
+            {
+                "head": "Marko Atlagic",
+                "type": "employer",
+                "tail": "SDS"
+            },
+            {
+                "head": "Milan Ernjakovic",
+                "type": "employer",
+                "tail": "Serb Democratic Party"
+            },
+            {
+                "head": "Milan Ernjakovic",
+                "type": "employer",
+                "tail": "SDS"
+            },
+            {
+                "head": "Krajina",
+                "type": "employer",
+                "tail": "Serb Democratic Party"
+            },
+            {
+                "head": "Krajina",
+                "type": "employer",
+                "tail": "SDS"
+            }
+        ]
+    },
+    {
+        "title": "3232",
+        "context": "BSP , SDS Support Noninvolvement in Bosnia AU1502173794 Sofia BTA in English 1646 GMT 15 Feb 94",
+        "id": "3232",
+        "triplets_sentence": "<triplet> BTA <org> Sofia <loc> headquarters location",
+        "triples": [
+            {
+                "head": "BTA",
+                "type": "headquarters location",
+                "tail": "Sofia"
+            }
+        ]
+    },
+    {
+        "title": "3276",
+        "context": "Havana Radio Rebelde Network",
+        "id": "3276",
+        "triplets_sentence": "<triplet> Radio Rebelde Network <org> Havana <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Radio Rebelde Network",
+                "type": "headquarters location",
+                "tail": "Havana"
+            }
+        ]
+    },
+    {
+        "title": "3294",
+        "context": "Security Forces Widen Ban on Possession of Arms NC0302223394 Paris AFP in English 2200 GMT 3 Feb 94",
+        "id": "3294",
+        "triplets_sentence": "<triplet> AFP <org> Paris <loc> headquarters location",
+        "triples": [
+            {
+                "head": "AFP",
+                "type": "headquarters location",
+                "tail": "Paris"
+            }
+        ]
+    },
+    {
+        "title": "3303",
+        "context": "Israeli Aircraft Launch 2 Raids on Iqlim al-Tuffah NC1502094094 Beirut Radio Lebanon in Arabic 0900 GMT 15 Feb 94",
+        "id": "3303",
+        "triplets_sentence": "<triplet> Radio Lebanon <org> Beirut <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Radio Lebanon",
+                "type": "headquarters location",
+                "tail": "Beirut"
+            }
+        ]
+    },
+    {
+        "title": "3327",
+        "context": "Dutch Air Force Trains for Attacks on Bosnia BR1002123994 The Hague ANP in Dutch 1540 GMT 9 Feb 94 -- FOR OFFICIAL USE ONLY",
+        "id": "3327",
+        "triplets_sentence": "<triplet> ANP <org> The Hague <loc> headquarters location",
+        "triples": [
+            {
+                "head": "ANP",
+                "type": "headquarters location",
+                "tail": "The Hague"
+            }
+        ]
+    },
+    {
+        "title": "3392",
+        "context": "Overview of Arrow Missile Program , Tasks 94AA0008Z Jerusalem THE JERUSALEM POST in English 15 Oct 93 pp 6-8 , 10--FOR OFFICIAL USE ONLY",
+        "id": "3392",
+        "triplets_sentence": "<triplet> THE JERUSALEM POST <org> Jerusalem <loc> headquarters location",
+        "triples": [
+            {
+                "head": "THE JERUSALEM POST",
+                "type": "headquarters location",
+                "tail": "Jerusalem"
+            }
+        ]
+    },
+    {
+        "title": "3393",
+        "context": "Jerusalem THE JERUSALEM POST",
+        "id": "3393",
+        "triplets_sentence": "<triplet> THE JERUSALEM POST <org> Jerusalem <loc> headquarters location",
+        "triples": [
+            {
+                "head": "THE JERUSALEM POST",
+                "type": "headquarters location",
+                "tail": "Jerusalem"
+            }
+        ]
+    },
+    {
+        "title": "3470",
+        "context": "Gerald Steinberg , an expert on missiles at Bar-Ilan University , agrees that the problem is daunting .",
+        "id": "3470",
+        "triplets_sentence": "<triplet> Gerald Steinberg <peop> Bar-Ilan University <org> employer",
+        "triples": [
+            {
+                "head": "Gerald Steinberg",
+                "type": "employer",
+                "tail": "Bar-Ilan University"
+            }
+        ]
+    },
+    {
+        "title": "3501",
+        "context": "\" What 's my goal ? \" asks Pedatzur , who now works for the Massachusetts Institute of Technology .",
+        "id": "3501",
+        "triplets_sentence": "<triplet> Pedatzur <peop> Massachusetts Institute of Technology <org> employer",
+        "triples": [
+            {
+                "head": "Pedatzur",
+                "type": "employer",
+                "tail": "Massachusetts Institute of Technology"
+            }
+        ]
+    },
+    {
+        "title": "3577",
+        "context": "North Korean and senior Australian officials have held secret talks at Australian Embassies in Jakarta and Bangkok , and the federal government has informed the United States , Japan and South Korea .",
+        "id": "3577",
+        "triplets_sentence": "<triplet> Australian Embassies <loc> Jakarta <loc> location <loc> Bangkok <loc> location",
+        "triples": [
+            {
+                "head": "Australian Embassies",
+                "type": "location",
+                "tail": "Jakarta"
+            },
+            {
+                "head": "Australian Embassies",
+                "type": "location",
+                "tail": "Bangkok"
+            }
+        ]
+    },
+    {
+        "title": "3585",
+        "context": "The Australian Government has considered inviting a senior North Korean Government official to visit Australia later in the year to initiate a stronger dialogue between the two countries .",
+        "id": "3585",
+        "triplets_sentence": "<triplet> Australian Government <org> Australia <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Australian Government",
+                "type": "headquarters location",
+                "tail": "Australia"
+            }
+        ]
+    },
+    {
+        "title": "3595",
+        "context": "This greatly eases the government 's policy that was decided upon at the August reunification-related ministers meeting in which it decided that ` businessmen will be allowed to visit North Korea only when North Korea completely returns to the Nuclear Nonproliferation Treaty and agrees to the inspection of unreported facilities in Yongbyon. '",
+        "id": "3595",
+        "triplets_sentence": "<triplet> Yongbyon. <loc> North Korea <loc> location <loc> North Korea <loc> location",
+        "triples": [
+            {
+                "head": "Yongbyon.",
+                "type": "location",
+                "tail": "North Korea"
+            },
+            {
+                "head": "Yongbyon.",
+                "type": "location",
+                "tail": "North Korea"
+            }
+        ]
+    },
+    {
+        "title": "3631",
+        "context": "( Text ) Nova Scotia Prime Minister ( John Savage ) and the delegation of Canadian businessmen and entrepreneurs accompanying him on his visit to Cuba met today with Cuban Foreign Ricardo Cabrisas .",
+        "id": "3631",
+        "triplets_sentence": "<triplet> John Savage <peop> Nova Scotia <loc> residence",
+        "triples": [
+            {
+                "head": "John Savage",
+                "type": "residence",
+                "tail": "Nova Scotia"
+            }
+        ]
+    },
+    {
+        "title": "3643",
+        "context": "Miguel Rodriguez Mendoza , ICE minister of state-president ( title as published ) , pointed out that \" the regulation promulgated on 15 December by the U.S. Environmental Protection Agency violates , according to Venezuela , GATT Article III ( National Treaty ) for establishing different quality standards for imported and domestic gasoline . \"",
+        "id": "3643",
+        "triplets_sentence": "<triplet> Miguel Rodriguez Mendoza <peop> ICE <org> employer",
+        "triples": [
+            {
+                "head": "Miguel Rodriguez Mendoza",
+                "type": "employer",
+                "tail": "ICE"
+            }
+        ]
+    },
+    {
+        "title": "3747",
+        "context": "Esprit Project to Develop Chip to Receive , Transmit Nerve Impulses 94WS0095B Duesseldorf HANDELSBLATT in German 11 Nov 93 p 22",
+        "id": "3747",
+        "triplets_sentence": "<triplet> HANDELSBLATT <org> Duesseldorf <loc> headquarters location",
+        "triples": [
+            {
+                "head": "HANDELSBLATT",
+                "type": "headquarters location",
+                "tail": "Duesseldorf"
+            }
+        ]
+    },
+    {
+        "title": "3756",
+        "context": "The microperforation was achieved by neutron bombardment , explains Jordi Aguil&oacute ; , head of CNM 's design department .",
+        "id": "3756",
+        "triplets_sentence": "<triplet> Jordi Aguil&oacute <peop> CNM <org> employer",
+        "triples": [
+            {
+                "head": "Jordi Aguil&oacute",
+                "type": "employer",
+                "tail": "CNM"
+            }
+        ]
+    },
+    {
+        "title": "3782",
+        "context": "( Text ) Santiago , 26 Dec ( EFE ) -- A police report released today states that a very powerful bomb was thrown on 25 December at a Finandes financial company office in the stock exchange district of the Chilean city of Valparaiso , 125 km northwest of Santiago.",
+        "id": "3782",
+        "triplets_sentence": "<triplet> EFE <org> Santiago <loc> headquarters location",
+        "triples": [
+            {
+                "head": "EFE",
+                "type": "headquarters location",
+                "tail": "Santiago"
+            }
+        ]
+    },
+    {
+        "title": "3788",
+        "context": "( Text ) Sao Paulo -- The Sao Paulo State Attorney 's Office will investigate charges that 11 members of the Institute for Nuclear and Energy Research ( Ipen ) in Sao Paulo have been contaminated by radioactive material while working at one of the Ipen laboratories , which is controlled by the National Nuclear Energy Commission ( CNEN ) .",
+        "id": "3788",
+        "triplets_sentence": "<triplet> Institute for Nuclear and Energy Research <org> Sao Paulo <loc> headquarters location <org> Sao Paulo <loc> headquarters location <org> Sao Paulo <loc> headquarters location <triplet> Ipen <org> Sao Paulo <loc> headquarters location <org> Sao Paulo <loc> headquarters location <org> Sao Paulo <loc> headquarters location <triplet> Ipen <org> Sao Paulo <loc> headquarters location <org> Sao Paulo <loc> headquarters location <org> Sao Paulo <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Institute for Nuclear and Energy Research",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Institute for Nuclear and Energy Research",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Institute for Nuclear and Energy Research",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Ipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Ipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Ipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Ipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Ipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Ipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            }
+        ]
+    },
+    {
+        "title": "3789",
+        "context": "The Association of Ipen Employees ( Assipen ) and the Federal Employees Union in Sao Paulo ( Sindisef ) have stated that the Ipen employees -- five women and six men who operated machinery at the pharmaceuticals laboratory -- were contaminated by breathing Iodine- 131 .",
+        "id": "3789",
+        "triplets_sentence": "<triplet> Association of Ipen Employees <org> Sao Paulo <loc> headquarters location <triplet> Assipen <org> Sao Paulo <loc> headquarters location <triplet> Federal Employees Union <org> Sao Paulo <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Association of Ipen Employees",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Assipen",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            },
+            {
+                "head": "Federal Employees Union",
+                "type": "headquarters location",
+                "tail": "Sao Paulo"
+            }
+        ]
+    },
+    {
+        "title": "3798",
+        "context": "Guatemala City Teleonce Television",
+        "id": "3798",
+        "triplets_sentence": "<triplet> Teleonce Television <org> Guatemala City <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Teleonce Television",
+                "type": "headquarters location",
+                "tail": "Guatemala City"
+            }
+        ]
+    },
+    {
+        "title": "3853",
+        "context": "Our correspondent Yuriy Kuzmenko asked Stanislav Mikhaylovich Korochkin , chief of Magadan Basin Okhotrybvod ( Okhotsk Sea Fishing Administration ) Department to comment on the event. ( Begin recording ) ( Kuzmenko ) Stanislav Mikhaylovich , does the Washington agreement specifically provide solutions to problems affecting the central part of the Okhotsk Sea ? ( Korochkin ) After a great deal of preparatory work , three years of preparatory work and 10 meetings , six countries finally signed an agreement in Washington agreeing to regulate fishing in the central part of the Bering Sea .",
+        "id": "3853",
+        "triplets_sentence": "<triplet> Stanislav Mikhaylovich Korochkin <peop> Magadan Basin Okhotrybvod ( Okhotsk Sea Fishing Administration ) Department <org> employer",
+        "triples": [
+            {
+                "head": "Stanislav Mikhaylovich Korochkin",
+                "type": "employer",
+                "tail": "Magadan Basin Okhotrybvod ( Okhotsk Sea Fishing Administration ) Department"
+            }
+        ]
+    },
+    {
+        "title": "3901",
+        "context": "Helsinki Suomen Yleisradio Network",
+        "id": "3901",
+        "triplets_sentence": "<triplet> Suomen Yleisradio Network <org> Helsinki <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Suomen Yleisradio Network",
+                "type": "headquarters location",
+                "tail": "Helsinki"
+            }
+        ]
+    },
+    {
+        "title": "3911",
+        "context": "PY3103144994 Lima EL COMERCIO in Spanish 19 Mar 94 p A8",
+        "id": "3911",
+        "triplets_sentence": "<triplet> EL COMERCIO <org> Lima <loc> headquarters location",
+        "triples": [
+            {
+                "head": "EL COMERCIO",
+                "type": "headquarters location",
+                "tail": "Lima"
+            }
+        ]
+    },
+    {
+        "title": "3916",
+        "context": "Priority will also be given to the Mangunchay irrigation project and to another sawmill in the San Ignacio forest , which is located in the provinces of Jaen and San Ignacio de Cajamarca .",
+        "id": "3916",
+        "triplets_sentence": "<triplet> San Ignacio forest <loc> Jaen <loc> location <loc> San Ignacio de Cajamarca <loc> location",
+        "triples": [
+            {
+                "head": "San Ignacio forest",
+                "type": "location",
+                "tail": "Jaen"
+            },
+            {
+                "head": "San Ignacio forest",
+                "type": "location",
+                "tail": "San Ignacio de Cajamarca"
+            }
+        ]
+    },
+    {
+        "title": "3919",
+        "context": "There are also plantations in Huancabamba , Piura ; in Bagua and Condorcanqui , Amazonas ; and in several towns in San Martin Department , where cultivation has spread rapidly over the last few years in Nueva Cajamarca , Rioja , Soritor , and in the valleys of Mayo , Sisa , and Biabo .",
+        "id": "3919",
+        "triplets_sentence": "<triplet> Huancabamba <loc> Piura <loc> location <triplet> Bagua <loc> Amazonas <loc> location <triplet> Condorcanqui <loc> Amazonas <loc> location",
+        "triples": [
+            {
+                "head": "Huancabamba",
+                "type": "location",
+                "tail": "Piura"
+            },
+            {
+                "head": "Bagua",
+                "type": "location",
+                "tail": "Amazonas"
+            },
+            {
+                "head": "Condorcanqui",
+                "type": "location",
+                "tail": "Amazonas"
+            }
+        ]
+    },
+    {
+        "title": "3950",
+        "context": "944K1078A Kiev PRAVDA UKRAINY in Russian 5 Apr 94 pp 1-2",
+        "id": "3950",
+        "triplets_sentence": "<triplet> PRAVDA UKRAINY <org> Kiev <loc> headquarters location",
+        "triples": [
+            {
+                "head": "PRAVDA UKRAINY",
+                "type": "headquarters location",
+                "tail": "Kiev"
+            }
+        ]
+    },
+    {
+        "title": "3952",
+        "context": "( Interview with Ivan Plyushch , chairman of the Ukrainian",
+        "id": "3952",
+        "triplets_sentence": "<triplet> Ivan Plyushch <peop> Ukrainian <org> employer",
+        "triples": [
+            {
+                "head": "Ivan Plyushch",
+                "type": "employer",
+                "tail": "Ukrainian"
+            }
+        ]
+    },
+    {
+        "title": "3997",
+        "context": "Beijing JINGJI YANJIU",
+        "id": "3997",
+        "triplets_sentence": "<triplet> JINGJI YANJIU <org> Beijing <loc> headquarters location",
+        "triples": [
+            {
+                "head": "JINGJI YANJIU",
+                "type": "headquarters location",
+                "tail": "Beijing"
+            }
+        ]
+    },
+    {
+        "title": "4016",
+        "context": "( Text ) Beijing , 23 Jun ( XINHUA ) -- Briefing the National People 's Congress ( NPC ) on \" China 's 21st Century Agenda \" today , Vice of the State Science and Technology Commission Deng Nan called for the final solution of environmental problems , adding that the economy must develop on a long-term basis , but if environmental problems are ignored in the process of development , economic development will be seriously hampered .",
+        "id": "4016",
+        "triplets_sentence": "<triplet> National People 's Congress <org> Beijing <loc> headquarters location <org> China <loc> headquarters location <triplet> State Science and Technology Commission <org> China <loc> headquarters location <triplet> Deng Nan <peop> China <loc> residence <peop> State Science and Technology Commission <org> employer",
+        "triples": [
+            {
+                "head": "National People 's Congress",
+                "type": "headquarters location",
+                "tail": "Beijing"
+            },
+            {
+                "head": "National People 's Congress",
+                "type": "headquarters location",
+                "tail": "China"
+            },
+            {
+                "head": "State Science and Technology Commission",
+                "type": "headquarters location",
+                "tail": "China"
+            },
+            {
+                "head": "Deng Nan",
+                "type": "residence",
+                "tail": "China"
+            },
+            {
+                "head": "Deng Nan",
+                "type": "employer",
+                "tail": "State Science and Technology Commission"
+            }
+        ]
+    },
+    {
+        "title": "4023",
+        "context": "Deng Nan said : The formulation and implementation of \" China 's 21st Century Agenda , \" as a document to privide guidance for the drafting of national economic and social development , will make it possible for us to solve the past problem of economic development divorced from environmental protection .",
+        "id": "4023",
+        "triplets_sentence": "<triplet> Deng Nan <peop> China <loc> residence",
+        "triples": [
+            {
+                "head": "Deng Nan",
+                "type": "residence",
+                "tail": "China"
+            }
+        ]
+    },
+    {
+        "title": "4048",
+        "context": "In the case of the United States , it is unclear whether the U.S. Congress will ratify the agreement within the deadline .",
+        "id": "4048",
+        "triplets_sentence": "<triplet> Congress <org> United States <loc> headquarters location <org> U.S. <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Congress",
+                "type": "headquarters location",
+                "tail": "United States"
+            },
+            {
+                "head": "Congress",
+                "type": "headquarters location",
+                "tail": "U.S."
+            }
+        ]
+    },
+    {
+        "title": "4068",
+        "context": "As of early March , five LDP assemblymen , including Kim Pom-myon from Nonsan County , reportedly signed the pledge to vote no to the ratification motion .",
+        "id": "4068",
+        "triplets_sentence": "<triplet> Kim Pom-myon <peop> LDP <org> employer <peop> Nonsan County <loc> residence",
+        "triples": [
+            {
+                "head": "Kim Pom-myon",
+                "type": "employer",
+                "tail": "LDP"
+            },
+            {
+                "head": "Kim Pom-myon",
+                "type": "residence",
+                "tail": "Nonsan County"
+            }
+        ]
+    },
+    {
+        "title": "4102",
+        "context": "Kakizawa suggested that Hata 's remarks expressed anticipation of the truth of claims by North Korean President Kim Il-song that North Korea has neither the will nor the ability to develop nuclear weapons .",
+        "id": "4102",
+        "triplets_sentence": "<triplet> Kim Il-song <peop> North Korea <loc> residence",
+        "triples": [
+            {
+                "head": "Kim Il-song",
+                "type": "residence",
+                "tail": "North Korea"
+            }
+        ]
+    },
+    {
+        "title": "4117",
+        "context": "Bangkok BANGKOK POST",
+        "id": "4117",
+        "triplets_sentence": "<triplet> BANGKOK POST <org> Bangkok <loc> headquarters location",
+        "triples": [
+            {
+                "head": "BANGKOK POST",
+                "type": "headquarters location",
+                "tail": "Bangkok"
+            }
+        ]
+    },
+    {
+        "title": "4148",
+        "context": "Mexico City LA JORNADA",
+        "id": "4148",
+        "triplets_sentence": "<triplet> LA JORNADA <org> Mexico City <loc> headquarters location",
+        "triples": [
+            {
+                "head": "LA JORNADA",
+                "type": "headquarters location",
+                "tail": "Mexico City"
+            }
+        ]
+    },
+    {
+        "title": "4174",
+        "context": "Following him very closely is the PRI 's Ernesto Zedillo Ponce de Leon who , according to the poll , has the support of 37 percent of residents in the Valley of Mexico , one of the areas with the largest number of voters in the country .",
+        "id": "4174",
+        "triplets_sentence": "<triplet> Ernesto Zedillo Ponce de Leon <peop> PRI <org> employer",
+        "triples": [
+            {
+                "head": "Ernesto Zedillo Ponce de Leon",
+                "type": "employer",
+                "tail": "PRI"
+            }
+        ]
+    },
+    {
+        "title": "4196",
+        "context": "LD2805220394 Algiers ENTV Television Network in Arabic 1200 GMT 28 May 94",
+        "id": "4196",
+        "triplets_sentence": "<triplet> ENTV Television Network <org> Algiers <loc> headquarters location",
+        "triples": [
+            {
+                "head": "ENTV Television Network",
+                "type": "headquarters location",
+                "tail": "Algiers"
+            }
+        ]
+    },
+    {
+        "title": "4197",
+        "context": "Algiers ENTV Television Network",
+        "id": "4197",
+        "triplets_sentence": "<triplet> ENTV Television Network <org> Algiers <loc> headquarters location",
+        "triples": [
+            {
+                "head": "ENTV Television Network",
+                "type": "headquarters location",
+                "tail": "Algiers"
+            }
+        ]
+    },
+    {
+        "title": "4212",
+        "context": "MK2306113594 Moscow NEZAVISIMAYA GAZETA in Russian 23 Jun 94 p 3",
+        "id": "4212",
+        "triplets_sentence": "<triplet> NEZAVISIMAYA GAZETA <org> Moscow <loc> headquarters location",
+        "triples": [
+            {
+                "head": "NEZAVISIMAYA GAZETA",
+                "type": "headquarters location",
+                "tail": "Moscow"
+            }
+        ]
+    },
+    {
+        "title": "4230",
+        "context": "Madras THE HINDU",
+        "id": "4230",
+        "triplets_sentence": "<triplet> THE HINDU <org> Madras <loc> headquarters location",
+        "triples": [
+            {
+                "head": "THE HINDU",
+                "type": "headquarters location",
+                "tail": "Madras"
+            }
+        ]
+    },
+    {
+        "title": "4242",
+        "context": "Panama City ACAN",
+        "id": "4242",
+        "triplets_sentence": "<triplet> ACAN <org> Panama City <loc> headquarters location",
+        "triples": [
+            {
+                "head": "ACAN",
+                "type": "headquarters location",
+                "tail": "Panama City"
+            }
+        ]
+    },
+    {
+        "title": "4266",
+        "context": "Johannesburg SAPA",
+        "id": "4266",
+        "triplets_sentence": "<triplet> SAPA <org> Johannesburg <loc> headquarters location",
+        "triples": [
+            {
+                "head": "SAPA",
+                "type": "headquarters location",
+                "tail": "Johannesburg"
+            }
+        ]
+    },
+    {
+        "title": "4267",
+        "context": "( Text ) Parliament May 9 SAPA -- Mr Nelson Rohihlahla Mandela was nominated unopposed president of the Republic of South Africa at 12.14AM on Monday ( 9 May ) .",
+        "id": "4267",
+        "triplets_sentence": "<triplet> Mr Nelson Rohihlahla Mandela <peop> Republic of South Africa <loc> residence",
+        "triples": [
+            {
+                "head": "Mr Nelson Rohihlahla Mandela",
+                "type": "residence",
+                "tail": "Republic of South Africa"
+            }
+        ]
+    },
+    {
+        "title": "4284",
+        "context": "EA2605165294 Nairobi KNA in English 0945 GMT 26 May 94",
+        "id": "4284",
+        "triplets_sentence": "<triplet> KNA <org> Nairobi <loc> headquarters location",
+        "triples": [
+            {
+                "head": "KNA",
+                "type": "headquarters location",
+                "tail": "Nairobi"
+            }
+        ]
+    },
+    {
+        "title": "4305",
+        "context": "Prime Datuk Sri Dr. Mahathir said he discussed these matters with African National Congress , ANC , leader Nelson Mandela and President de Klerk during his brief visit to South Africa .",
+        "id": "4305",
+        "triplets_sentence": "<triplet> African National Congress <org> South Africa <loc> headquarters location <triplet> ANC <org> South Africa <loc> headquarters location <triplet> Nelson Mandela <peop> African National Congress <org> employer <peop> ANC <org> employer <peop> South Africa <loc> residence <triplet> de Klerk <peop> South Africa <loc> residence",
+        "triples": [
+            {
+                "head": "African National Congress",
+                "type": "headquarters location",
+                "tail": "South Africa"
+            },
+            {
+                "head": "ANC",
+                "type": "headquarters location",
+                "tail": "South Africa"
+            },
+            {
+                "head": "Nelson Mandela",
+                "type": "employer",
+                "tail": "African National Congress"
+            },
+            {
+                "head": "Nelson Mandela",
+                "type": "employer",
+                "tail": "ANC"
+            },
+            {
+                "head": "Nelson Mandela",
+                "type": "residence",
+                "tail": "South Africa"
+            },
+            {
+                "head": "de Klerk",
+                "type": "residence",
+                "tail": "South Africa"
+            }
+        ]
+    },
+    {
+        "title": "4341",
+        "context": "NUB spokesman Kim Hyong-ki said , \" we expect that North Korea will respond to the IAEA proposal soon .",
+        "id": "4341",
+        "triplets_sentence": "<triplet> Kim Hyong-ki <peop> NUB <org> employer",
+        "triples": [
+            {
+                "head": "Kim Hyong-ki",
+                "type": "employer",
+                "tail": "NUB"
+            }
+        ]
+    },
+    {
+        "title": "4347",
+        "context": "( Text ) Bratislava , May 11 ( CTK ) -- The Slovak Foreign Ministry reiterated its willingness to continue talks with Budapest on the division of the Danube 's waters between the Gabcikovo derivation canal on Slovakia 's territory and the Danube 's old course , in a note extended to the Hungarian Embassy today , the ministry told CTK .",
+        "id": "4347",
+        "triplets_sentence": "<triplet> Gabcikovo derivation canal <loc> Slovakia <loc> location",
+        "triples": [
+            {
+                "head": "Gabcikovo derivation canal",
+                "type": "location",
+                "tail": "Slovakia"
+            }
+        ]
+    },
+    {
+        "title": "4437",
+        "context": "adviser to PLO Chairman Yasir 'Arafat by Sa 'id Mu 'addi in Cairo on 18 May from the \" With the Midday Events \" program -- recorded ) ( Excerpt ) ( passage omitted ) ( Mu 'addi ) One last question , Dr. Nabil .",
+        "id": "4437",
+        "triplets_sentence": "<triplet> Yasir 'Arafat <peop> PLO <org> employer",
+        "triples": [
+            {
+                "head": "Yasir 'Arafat",
+                "type": "employer",
+                "tail": "PLO"
+            }
+        ]
+    },
+    {
+        "title": "4485",
+        "context": "The Pacific Fleet Commander Georgiy Gurinov is at the fleet 's main command post , coordinating the activity of all the forces involved .",
+        "id": "4485",
+        "triplets_sentence": "<triplet> Georgiy Gurinov <peop> Pacific Fleet <org> employer",
+        "triples": [
+            {
+                "head": "Georgiy Gurinov",
+                "type": "employer",
+                "tail": "Pacific Fleet"
+            }
+        ]
+    },
+    {
+        "title": "4491",
+        "context": "( Text ) Moscow May 20 TASS -- Director of the Middle East and Africa department of the Russian Foreign Ministry Viktor Posuvalyuk told ITAR-TASS by telephone today that the number of Russians in Algeria had substantially decreased during the recent period due to the evacuation of the wives and children of Russian specialists and employees of different organisations .",
+        "id": "4491",
+        "triplets_sentence": "<triplet> Viktor Posuvalyuk <peop> Middle East and Africa department <org> employer <peop> Russian Foreign Ministry <org> employer",
+        "triples": [
+            {
+                "head": "Viktor Posuvalyuk",
+                "type": "employer",
+                "tail": "Middle East and Africa department"
+            },
+            {
+                "head": "Viktor Posuvalyuk",
+                "type": "employer",
+                "tail": "Russian Foreign Ministry"
+            }
+        ]
+    },
+    {
+        "title": "4499",
+        "context": "It Is Russia which Needs ` Partnership for Peace ' Most of All , Scientists Believe \" ) ( Text ) Scientists from the Russian Center for Problems of National Security and International Relations headed by Professor , Doctor of Historical Sciences Sergey Rogov have prepared a 33-page report entitled \" Partnership for Peace and Russia 's Interests . \"",
+        "id": "4499",
+        "triplets_sentence": "<triplet> Sergey Rogov <peop> Center for Problems of National Security and International Relations <org> employer",
+        "triples": [
+            {
+                "head": "Sergey Rogov",
+                "type": "employer",
+                "tail": "Center for Problems of National Security and International Relations"
+            }
+        ]
+    },
+    {
+        "title": "4515",
+        "context": "AU2405185594 Chisinau BASAPRESS in English 1750 GMT 23 May 94",
+        "id": "4515",
+        "triplets_sentence": "<triplet> BASAPRESS <org> Chisinau <loc> headquarters location",
+        "triples": [
+            {
+                "head": "BASAPRESS",
+                "type": "headquarters location",
+                "tail": "Chisinau"
+            }
+        ]
+    },
+    {
+        "title": "4517",
+        "context": "( Text ) Chisinau BASAPRESS , 23 5 1994 -- President Mircea Snegur 's decision to join the governing party , the Agrarian Democratic Party of Moldova ( PDAM ) , reveals unsteadiness in his political views , declared to BASA Valentin Krylov , a leader of the Socialist Party .",
+        "id": "4517",
+        "triplets_sentence": "<triplet> Valentin Krylov <peop> Socialist Party <org> employer",
+        "triples": [
+            {
+                "head": "Valentin Krylov",
+                "type": "employer",
+                "tail": "Socialist Party"
+            }
+        ]
+    },
+    {
+        "title": "4563",
+        "context": "Under a verdict by the Federal Administrative Court in Berlin , Kurds in the Federal Republic can only claim asylum if they have no safe haven in Turkey .",
+        "id": "4563",
+        "triplets_sentence": "<triplet> Federal Administrative Court <org> Berlin <loc> headquarters location <org> Federal Republic <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Federal Administrative Court",
+                "type": "headquarters location",
+                "tail": "Berlin"
+            },
+            {
+                "head": "Federal Administrative Court",
+                "type": "headquarters location",
+                "tail": "Federal Republic"
+            }
+        ]
+    },
+    {
+        "title": "4603",
+        "context": "Scientists at the Institute of Organic Chemistry of Shanghai have accomplished the total and serial synthesis of molecule Nodrm-1 , which plays the role of information transmitter between azotobacteria and bean plants .",
+        "id": "4603",
+        "triplets_sentence": "<triplet> Institute of Organic Chemistry <org> Shanghai <loc> headquarters location",
+        "triples": [
+            {
+                "head": "Institute of Organic Chemistry",
+                "type": "headquarters location",
+                "tail": "Shanghai"
+            }
+        ]
+    },
+    {
+        "title": "4614",
+        "context": "94WN0263A Kiev HOLOS UKRAYINY in Ukrainian 20 Apr 94 p 6",
+        "id": "4614",
+        "triplets_sentence": "<triplet> HOLOS UKRAYINY <org> Kiev <loc> headquarters location",
+        "triples": [
+            {
+                "head": "HOLOS UKRAYINY",
+                "type": "headquarters location",
+                "tail": "Kiev"
+            }
+        ]
+    },
+    {
+        "title": "4615",
+        "context": "Kiev HOLOS UKRAYINY",
+        "id": "4615",
+        "triplets_sentence": "<triplet> HOLOS UKRAYINY <org> Kiev <loc> headquarters location",
+        "triples": [
+            {
+                "head": "HOLOS UKRAYINY",
+                "type": "headquarters location",
+                "tail": "Kiev"
+            }
+        ]
+    },
+    {
+        "title": "4618",
+        "context": "The power-output ratio in Ukraine 's gross national product is the highest among the countries of the former Soviet Union .",
+        "id": "4618",
+        "triplets_sentence": "<triplet> Ukraine <loc> Soviet Union <loc> location",
+        "triples": [
+            {
+                "head": "Ukraine",
+                "type": "location",
+                "tail": "Soviet Union"
+            }
+        ]
+    },
+    {
+        "title": "5003",
+        "context": "The Warren Commission determined that on Nov. 22 , 1963 , Lee Harvey Oswald fired a high-powered rifle at Kennedy 's motorcade from the sixth floor of what is now the Dallas County Administration Building , where he worked .",
+        "id": "5003",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5021",
+        "context": "Today 's Highlight in History : Twenty years ago , on June 6 , 1968 , at 1 : 44 a.m. local time , Sen. Robert F. Kennedy died at Good Samaritan Hospital in Los Angeles , 25 -LCB- hours after he was shot at the Ambassador Hotel by Sirhan Bishara Sirhan .",
+        "id": "5021",
+        "triplets_sentence": "<triplet> Sirhan Bishara Sirhan <peop> Sen. Robert F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan Bishara Sirhan",
+                "type": "killed by",
+                "tail": "Sen. Robert F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5023",
+        "context": "In 1968 , authorities announced the capture in London of James Earl Ray , suspected of the assassination of civil rights leader Dr. Martin Luther King Jr .",
+        "id": "5023",
+        "triplets_sentence": "<triplet> James Earl Ray <peop> Dr. Martin Luther King Jr <peop> killed by",
+        "triples": [
+            {
+                "head": "James Earl Ray",
+                "type": "killed by",
+                "tail": "Dr. Martin Luther King Jr"
+            }
+        ]
+    },
+    {
+        "title": "5024",
+        "context": "The Warren Commission determined that Oswald fired at Kennedy from the sixth floor of what is now the Dallas County Administration Building .",
+        "id": "5024",
+        "triplets_sentence": "<triplet> Oswald <peop> Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Oswald",
+                "type": "killed by",
+                "tail": "Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5036",
+        "context": "The House Assassinations Committee concluded in 1978 that Kennedy was ` ` probably ' ' assassinated as the result of a conspiracy involving a second gunman , a finding that broke from the Warren Commission 's belief that Lee Harvey Oswald acted alone in Dallas on Nov. 22 , 1963 .",
+        "id": "5036",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5041",
+        "context": "Today 's highlight in history : In 1964 , the Warren Commission issued a report concluding that Lee Harvey Oswald had acted alone in assassinating President John F. Kennedy .",
+        "id": "5041",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> President John F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "President John F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5042",
+        "context": "In Dallas , preparations continue for a museum at the Texas School Book Depository where assassin Lee Harvey Oswald gunned down Kennedy as the presidential motorcade rode through Dealey Plaza .",
+        "id": "5042",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5055",
+        "context": "In 1881 , Charles J. Guiteau went on trial for the assassination of President James Garfield .",
+        "id": "5055",
+        "triplets_sentence": "<triplet> Charles J. Guiteau <peop> President James Garfield <peop> killed by",
+        "triples": [
+            {
+                "head": "Charles J. Guiteau",
+                "type": "killed by",
+                "tail": "President James Garfield"
+            }
+        ]
+    },
+    {
+        "title": "5068",
+        "context": "Today 's highlight in history : On Nov. 24 , 1963 , in a scene captured on live network television , Dallas nightclub owner Jack Ruby shot and mortally wounded Lee Harvey Oswald as the accused assassin of President John F. Kennedy was being escorted by police to an armored truck at the Dallas municipal building for transfer to the county jail .",
+        "id": "5068",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> President John F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "President John F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5073",
+        "context": "John Martini , 58 , and Therese Afdahl , 30 , were arrested after being spotted by police at a Fort Lee motel Wednesday and were charged in the slaying of 58-year-old Irving Flax .",
+        "id": "5073",
+        "triplets_sentence": "<triplet> John Martini <peop> Irving Flax <peop> killed by",
+        "triples": [
+            {
+                "head": "John Martini",
+                "type": "killed by",
+                "tail": "Irving Flax"
+            }
+        ]
+    },
+    {
+        "title": "5078",
+        "context": "Prayers and tears marked the opening Monday of a museum on the sixth floor of the old Texas School Book Depository from which Lee Harvard Oswald is believed to have fired the shots that killed President John F. Kennedy .",
+        "id": "5078",
+        "triplets_sentence": "<triplet> Lee Harvard Oswald <peop> President John F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvard Oswald",
+                "type": "killed by",
+                "tail": "President John F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5080",
+        "context": "A long , long time. ' ' _ Dallas resident Danny Veno , on his visit to the spot from which Lee Harvey Oswald allegedly shot President Kennedy , which has been turned into a museum .",
+        "id": "5080",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> President Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "President Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5085",
+        "context": "In 1969 , Sirhan Sirhan was sentenced to death for the assassination of New York Sen. Robert F. Kennedy .",
+        "id": "5085",
+        "triplets_sentence": "<triplet> Sirhan Sirhan <peop> New York Sen. Robert F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan Sirhan",
+                "type": "killed by",
+                "tail": "New York Sen. Robert F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5088",
+        "context": "Sirhan Sirhan , serving life in prison for assassinating Sen. Robert F. Kennedy , was denied parole for the 10th time Tuesday despite saying he felt ` ` very remorseful ' ' about the slaying .",
+        "id": "5088",
+        "triplets_sentence": "<triplet> Sirhan Sirhan <peop> Sen. Robert F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan Sirhan",
+                "type": "killed by",
+                "tail": "Sen. Robert F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5093",
+        "context": "Kennedy 's assassin , Sirhan Bishara Sirhan , was immediately arrested .",
+        "id": "5093",
+        "triplets_sentence": "<triplet> Sirhan Bishara Sirhan <peop> Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan Bishara Sirhan",
+                "type": "killed by",
+                "tail": "Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5099",
+        "context": "In 1865 , four people were hanged in Washington , D.C. , after being convicted of conspiring with John Wilkes Booth in the assassination of President Abraham Lincoln .",
+        "id": "5099",
+        "triplets_sentence": "<triplet> John Wilkes Booth <peop> President Abraham Lincoln <peop> killed by",
+        "triples": [
+            {
+                "head": "John Wilkes Booth",
+                "type": "killed by",
+                "tail": "President Abraham Lincoln"
+            }
+        ]
+    },
+    {
+        "title": "5101",
+        "context": "In 1793 , French revolutionary writer Jean Paul Marat was murdered in his bath by Charlotte Corday .",
+        "id": "5101",
+        "triplets_sentence": "<triplet> Charlotte Corday <peop> Jean Paul Marat <peop> killed by",
+        "triples": [
+            {
+                "head": "Charlotte Corday",
+                "type": "killed by",
+                "tail": "Jean Paul Marat"
+            }
+        ]
+    },
+    {
+        "title": "5103",
+        "context": "In 1978 , James Earl Ray , convicted assassin of Dr. Martin Luther King Jr. , told a Capitol Hill hearing he did not commit the crime , saying he 'd been set up by a mysterious man called ` ` Raoul. ' '",
+        "id": "5103",
+        "triplets_sentence": "<triplet> James Earl Ray <peop> Dr. Martin Luther King Jr. <peop> killed by",
+        "triples": [
+            {
+                "head": "James Earl Ray",
+                "type": "killed by",
+                "tail": "Dr. Martin Luther King Jr."
+            }
+        ]
+    },
+    {
+        "title": "5106",
+        "context": "In 1964 , the Warren Commission issued a report concluding that Lee Harvey Oswald had acted alone in assassinating President John F. Kennedy in November 1963 .",
+        "id": "5106",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> President John F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "President John F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5112",
+        "context": "Ray , 61 , will not be eligible for parole until 1998 for the April 4 , 1968 , killing of King in Memphis , Tenn .",
+        "id": "5112",
+        "triplets_sentence": "<triplet> Ray <peop> King <peop> killed by",
+        "triples": [
+            {
+                "head": "Ray",
+                "type": "killed by",
+                "tail": "King"
+            }
+        ]
+    },
+    {
+        "title": "5121",
+        "context": "On April 14 , while attending a play at the Ford Theatre in Washington , Lincoln was shot in the head by actor John Wilkes Booth , who cried out ` ` Sic Semper Tyranus ' ' ( ` ` Thus Ever to Tyrants , ' ' the motto of Virginia ) .",
+        "id": "5121",
+        "triplets_sentence": "<triplet> John Wilkes Booth <peop> Lincoln <peop> killed by",
+        "triples": [
+            {
+                "head": "John Wilkes Booth",
+                "type": "killed by",
+                "tail": "Lincoln"
+            }
+        ]
+    },
+    {
+        "title": "5124",
+        "context": "In 1969 , James Earl Ray pleaded guilty in Memphis , Tenn. , to the assassination of civil rights leader Martin Luther King Jr.",
+        "id": "5124",
+        "triplets_sentence": "<triplet> James Earl Ray <peop> Martin Luther King Jr. <peop> killed by",
+        "triples": [
+            {
+                "head": "James Earl Ray",
+                "type": "killed by",
+                "tail": "Martin Luther King Jr."
+            }
+        ]
+    },
+    {
+        "title": "5125",
+        "context": "In 1964 , a jury in Dallas found Jack Ruby guilty of murdering Lee Harvey Oswald , the accused assassin of President Kennedy.",
+        "id": "5125",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> President Kennedy. <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "President Kennedy."
+            }
+        ]
+    },
+    {
+        "title": "5143",
+        "context": "Sirhan B. Sirhan , who shot Sen. Robert F. Kennedy to death 22 years ago , was denied parole Tuesday for the 13th time .",
+        "id": "5143",
+        "triplets_sentence": "<triplet> Sirhan B. Sirhan <peop> Sen. Robert F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan B. Sirhan",
+                "type": "killed by",
+                "tail": "Sen. Robert F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5148",
+        "context": "Belli 's clients have included Jack Ruby , who killed John F. Kennedy assassin Lee Harvey Oswald , and Jim and Tammy Bakker .",
+        "id": "5148",
+        "triplets_sentence": "<triplet> Jack Ruby <peop> Lee Harvey Oswald <peop> killed by <triplet> Lee Harvey Oswald <peop> John F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Jack Ruby",
+                "type": "killed by",
+                "tail": "Lee Harvey Oswald"
+            },
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "John F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5155",
+        "context": "Oswald was captured in the theater Nov. 22 , 1963 , only a few hours after Kennedy was shot to death on a Dallas street .",
+        "id": "5155",
+        "triplets_sentence": "<triplet> Oswald <peop> Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Oswald",
+                "type": "killed by",
+                "tail": "Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5157",
+        "context": "In 1979 , South Korean President Park Chung-hee was shot to death by the head of the Korean Central Intelligence Agency , Kim Jae-kyu .",
+        "id": "5157",
+        "triplets_sentence": "<triplet> Kim Jae-kyu <peop> President Park Chung-hee <peop> killed by",
+        "triples": [
+            {
+                "head": "Kim Jae-kyu",
+                "type": "killed by",
+                "tail": "President Park Chung-hee"
+            }
+        ]
+    },
+    {
+        "title": "5163",
+        "context": "Chapman said he suffered years of mental dissolution before killing Lennon .",
+        "id": "5163",
+        "triplets_sentence": "<triplet> Chapman <peop> Lennon <peop> killed by",
+        "triples": [
+            {
+                "head": "Chapman",
+                "type": "killed by",
+                "tail": "Lennon"
+            }
+        ]
+    },
+    {
+        "title": "5166",
+        "context": "Mark David Chapman says that he feels great remorse for killing John Lennon but that the slaying doesn 't make him an evil person.",
+        "id": "5166",
+        "triplets_sentence": "<triplet> Mark David Chapman <peop> John Lennon <peop> killed by",
+        "triples": [
+            {
+                "head": "Mark David Chapman",
+                "type": "killed by",
+                "tail": "John Lennon"
+            }
+        ]
+    },
+    {
+        "title": "5168",
+        "context": "Lennon and his wife were returning to their apartment in New York 's Dakota building from a recording session on Dec. 8 , 1980 , when he was shot to death by Mark David Chapman , an obsessed fan who had gotten his autograph only hours before .",
+        "id": "5168",
+        "triplets_sentence": "<triplet> Mark David Chapman <peop> Lennon <peop> killed by",
+        "triples": [
+            {
+                "head": "Mark David Chapman",
+                "type": "killed by",
+                "tail": "Lennon"
+            }
+        ]
+    },
+    {
+        "title": "5170",
+        "context": "Lennon was returning home with Ono after a recording session when Mark David Chapman , a fan who received the ex-Beatle 's autograph just hours before , shot and killed him .",
+        "id": "5170",
+        "triplets_sentence": "<triplet> Mark David Chapman <peop> Lennon <peop> killed by",
+        "triples": [
+            {
+                "head": "Mark David Chapman",
+                "type": "killed by",
+                "tail": "Lennon"
+            }
+        ]
+    },
+    {
+        "title": "5174",
+        "context": "Kleber Elias Gia Bustamante , accused by the police of being a member of the \" Red Sun \" central committee , has been living clandestinely since his escape from the Garcia Moreno Prison , where he was held accused of assassinating the industrialist , Jose Antonio Briz Lopez.",
+        "id": "5174",
+        "triplets_sentence": "<triplet> Kleber Elias Gia Bustamante <peop> Jose Antonio Briz Lopez. <peop> killed by",
+        "triples": [
+            {
+                "head": "Kleber Elias Gia Bustamante",
+                "type": "killed by",
+                "tail": "Jose Antonio Briz Lopez."
+            }
+        ]
+    },
+    {
+        "title": "5181",
+        "context": "The jury in a television trial found James Earl Ray not guilty of murdering Martin Luther King after a Memphis hearing screened on the 25th anniversary of the assassination .",
+        "id": "5181",
+        "triplets_sentence": "<triplet> James Earl Ray <peop> Martin Luther King <peop> killed by",
+        "triples": [
+            {
+                "head": "James Earl Ray",
+                "type": "killed by",
+                "tail": "Martin Luther King"
+            }
+        ]
+    },
+    {
+        "title": "5187",
+        "context": "The Sandinistas renamed the stadium after Rigoberto Lopez Perez , a tailor and poet who assassinated Somoza Garcia and was killed in the process .",
+        "id": "5187",
+        "triplets_sentence": "<triplet> Rigoberto Lopez Perez <peop> Somoza Garcia <peop> killed by",
+        "triples": [
+            {
+                "head": "Rigoberto Lopez Perez",
+                "type": "killed by",
+                "tail": "Somoza Garcia"
+            }
+        ]
+    },
+    {
+        "title": "5193",
+        "context": "Sirhan B. Sirhan , who shot Sen. Robert F. Kennedy to death 22 years ago , was denied freedom for the 13th time by a parole board that disregarded a Middle Eastern petition pleading for his release .",
+        "id": "5193",
+        "triplets_sentence": "<triplet> Sirhan B. Sirhan <peop> Sen. Robert F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan B. Sirhan",
+                "type": "killed by",
+                "tail": "Sen. Robert F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5201",
+        "context": "Perhaps Diamond 's best-known testimony came during the trial of Sen. Robert F. Kennedy 's assassin , Sirhan Sirhan .",
+        "id": "5201",
+        "triplets_sentence": "<triplet> Sirhan Sirhan <peop> Sen. Robert F. Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Sirhan Sirhan",
+                "type": "killed by",
+                "tail": "Sen. Robert F. Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5211",
+        "context": "Another segment shows the famous sequence of Lyndon B. Johnson being sworn in as president ; still another the television footage of Jack Ruby shooting Oswald .",
+        "id": "5211",
+        "triplets_sentence": "<triplet> Jack Ruby <peop> Oswald <peop> killed by",
+        "triples": [
+            {
+                "head": "Jack Ruby",
+                "type": "killed by",
+                "tail": "Oswald"
+            }
+        ]
+    },
+    {
+        "title": "5215",
+        "context": "The building from which Lee Harvey Oswald allegedly shot President Kennedy now contains county offices and , on the sixth floor , a museum with exhibits about the assassination ;",
+        "id": "5215",
+        "triplets_sentence": "<triplet> Lee Harvey Oswald <peop> President Kennedy <peop> killed by",
+        "triples": [
+            {
+                "head": "Lee Harvey Oswald",
+                "type": "killed by",
+                "tail": "President Kennedy"
+            }
+        ]
+    },
+    {
+        "title": "5216",
+        "context": "Besides McCord , security chief of President Nixon 's 1972 campaign , Mr. Fensterwald 's big-name clients included James Earl Ray , the convicted assassin of the Rev. Martin Luther King Jr. ;",
+        "id": "5216",
+        "triplets_sentence": "<triplet> James Earl Ray <peop> Rev. Martin Luther King Jr. <peop> killed by",
+        "triples": [
+            {
+                "head": "James Earl Ray",
+                "type": "killed by",
+                "tail": "Rev. Martin Luther King Jr."
+            }
+        ]
+    },
+    {
+        "title": "5240",
+        "context": "Similarly , Abraham Lincoln 's killer John Wilkes Booth ( Victor Garber ) breaks into song in the burning barn where he will shoot himself .",
+        "id": "5240",
+        "triplets_sentence": "<triplet> John Wilkes Booth <peop> Abraham Lincoln <peop> killed by",
+        "triples": [
+            {
+                "head": "John Wilkes Booth",
+                "type": "killed by",
+                "tail": "Abraham Lincoln"
+            }
+        ]
+    },
+    {
+        "title": "5245",
+        "context": "Dole is at an organizational disadvantage in the South but has had his wife , Elizabeth , a native of North Carolina , working the region for him .",
+        "id": "5245",
+        "triplets_sentence": "<triplet> Elizabeth <peop> North Carolina <loc> residence",
+        "triples": [
+            {
+                "head": "Elizabeth",
+                "type": "residence",
+                "tail": "North Carolina"
+            }
+        ]
+    },
+    {
+        "title": "5250",
+        "context": "Dole strategists looked on North Carolina as one of their best Southern prospects _ largely because the candidate 's wife , former transportation secretary Elizabeth Dole , is a native of Salisbury , N.C. Polls published over the weekend showed Dole , who trailed by as much as 15 percentage points two weeks ago , had pulled even with Bush .",
+        "id": "5250",
+        "triplets_sentence": "<triplet> Elizabeth Dole <peop> Salisbury , N.C. <loc> residence",
+        "triples": [
+            {
+                "head": "Elizabeth Dole",
+                "type": "residence",
+                "tail": "Salisbury , N.C."
+            }
+        ]
+    },
+    {
+        "title": "5257",
+        "context": "COLUMBIA , S.C. _ Jesse Jackson on Sunday was touting his big win in his native South Carolina , while officials struggled to count the final ballots after a record turnout at Democratic caucuses.",
+        "id": "5257",
+        "triplets_sentence": "<triplet> Jesse Jackson <peop> South Carolina <loc> residence",
+        "triples": [
+            {
+                "head": "Jesse Jackson",
+                "type": "residence",
+                "tail": "South Carolina"
+            }
+        ]
+    },
+    {
+        "title": "5259",
+        "context": "Jesse Jackson made an impressive showing in Democratic caucuses in his native South Carolina over the weekend and now takes aim at Tuesday 's primary in his adopted Illinois .",
+        "id": "5259",
+        "triplets_sentence": "<triplet> Jesse Jackson <peop> South Carolina <loc> residence",
+        "triples": [
+            {
+                "head": "Jesse Jackson",
+                "type": "residence",
+                "tail": "South Carolina"
+            }
+        ]
+    },
+    {
+        "title": "5264",
+        "context": "In 1892 , author and newscaster Lowell Thomas was born in Woodington , Ohio .",
+        "id": "5264",
+        "triplets_sentence": "<triplet> Lowell Thomas <peop> Woodington , Ohio <loc> residence",
+        "triples": [
+            {
+                "head": "Lowell Thomas",
+                "type": "residence",
+                "tail": "Woodington , Ohio"
+            }
+        ]
+    },
+    {
+        "title": "5274",
+        "context": "In 1911 , the 38th U.S. vice president , Hubert H. Humphrey , was born in Wallace , S.D. In 1929 , aviator Charles Lindbergh married Anne Spencer Morrow in Englewood , N.J. In 1935 , the Supreme Court struck down the National Industrial Recovery Act .",
+        "id": "5274",
+        "triplets_sentence": "<triplet> Hubert H. Humphrey <peop> Wallace , S.D. <loc> residence",
+        "triples": [
+            {
+                "head": "Hubert H. Humphrey",
+                "type": "residence",
+                "tail": "Wallace , S.D."
+            }
+        ]
+    },
+    {
+        "title": "5275",
+        "context": "In 1801 , Mormon leader Brigham Young was born in Whitingham , Vt .",
+        "id": "5275",
+        "triplets_sentence": "<triplet> Brigham Young <peop> Whitingham , Vt <loc> residence",
+        "triples": [
+            {
+                "head": "Brigham Young",
+                "type": "residence",
+                "tail": "Whitingham , Vt"
+            }
+        ]
+    },
+    {
+        "title": "5277",
+        "context": "Martin liked Jimbob for its ` ` basic down-home appeal , ' ' and thought ` ` anyone named Rogers has always been able to get elected to anything in Oklahoma , ' ' where the humorist Will Rogers was born .",
+        "id": "5277",
+        "triplets_sentence": "<triplet> Will Rogers <peop> Oklahoma <loc> residence",
+        "triples": [
+            {
+                "head": "Will Rogers",
+                "type": "residence",
+                "tail": "Oklahoma"
+            }
+        ]
+    },
+    {
+        "title": "5294",
+        "context": "In 1913 , Olympic legend Jesse Owens was born in Danville , Ala.",
+        "id": "5294",
+        "triplets_sentence": "<triplet> Jesse Owens <peop> Danville , Ala. <loc> residence",
+        "triples": [
+            {
+                "head": "Jesse Owens",
+                "type": "residence",
+                "tail": "Danville , Ala."
+            }
+        ]
+    },
+    {
+        "title": "5296",
+        "context": "Springsteen , a New Jersey native , was clearly the favorite , as calls for ` ` Bruce ' ' drowned out the audio from an animated video illustrating the tenets of the Universal Declaration of Human Rights .",
+        "id": "5296",
+        "triplets_sentence": "<triplet> Springsteen <peop> New Jersey <loc> residence",
+        "triples": [
+            {
+                "head": "Springsteen",
+                "type": "residence",
+                "tail": "New Jersey"
+            }
+        ]
+    },
+    {
+        "title": "5301",
+        "context": "In 1831 , the 20th President of the United States , James Garfield , was born in Orange , Ohio .",
+        "id": "5301",
+        "triplets_sentence": "<triplet> James Garfield <peop> Orange , Ohio <loc> residence",
+        "triples": [
+            {
+                "head": "James Garfield",
+                "type": "residence",
+                "tail": "Orange , Ohio"
+            }
+        ]
+    },
+    {
+        "title": "5304",
+        "context": "Atwater , 37 , is a South Carolina native who earlier served as an aide to President Reagan and also worked for Sen. Strom Thurmond of South Carolina .",
+        "id": "5304",
+        "triplets_sentence": "<triplet> Atwater <peop> South Carolina <loc> residence",
+        "triples": [
+            {
+                "head": "Atwater",
+                "type": "residence",
+                "tail": "South Carolina"
+            }
+        ]
+    },
+    {
+        "title": "5317",
+        "context": "Although she has tried to realize that dream through a Buddy Holly scholarship fund , preferably at Texas Tech University in Holly 's hometown of Lubbock , or through a festival there , each attempt has failed .",
+        "id": "5317",
+        "triplets_sentence": "<triplet> Holly <peop> Lubbock <loc> residence",
+        "triples": [
+            {
+                "head": "Holly",
+                "type": "residence",
+                "tail": "Lubbock"
+            }
+        ]
+    },
+    {
+        "title": "5323",
+        "context": "Scheduled to be inducted on Sunday are : John Deere , born in 1804 in Rutland , Vt. , developer of the moldboard plow .",
+        "id": "5323",
+        "triplets_sentence": "<triplet> John Deere <peop> Rutland , Vt. <loc> residence",
+        "triples": [
+            {
+                "head": "John Deere",
+                "type": "residence",
+                "tail": "Rutland , Vt."
+            }
+        ]
+    },
+    {
+        "title": "5326",
+        "context": "One year ago : The Rev. Jesse Jackson won the Democratic precinct caucuses in his native South Carolina .",
+        "id": "5326",
+        "triplets_sentence": "<triplet> Rev. Jesse Jackson <peop> South Carolina <loc> residence",
+        "triples": [
+            {
+                "head": "Rev. Jesse Jackson",
+                "type": "residence",
+                "tail": "South Carolina"
+            }
+        ]
+    },
+    {
+        "title": "5330",
+        "context": "In 1822 , the 18th president of the United States , Ulysses S. Grant , was born in Point Pleasant , Ohio .",
+        "id": "5330",
+        "triplets_sentence": "<triplet> Ulysses S. Grant <peop> Point Pleasant , Ohio <loc> residence",
+        "triples": [
+            {
+                "head": "Ulysses S. Grant",
+                "type": "residence",
+                "tail": "Point Pleasant , Ohio"
+            }
+        ]
+    },
+    {
+        "title": "5331",
+        "context": "On this date : In 1758 , the fifth president of the United States , James Monroe , was born in Westmoreland County ,Virginia .",
+        "id": "5331",
+        "triplets_sentence": "<triplet> James Monroe <peop> Westmoreland County ,Virginia <loc> residence",
+        "triples": [
+            {
+                "head": "James Monroe",
+                "type": "residence",
+                "tail": "Westmoreland County ,Virginia"
+            }
+        ]
+    },
+    {
+        "title": "5335",
+        "context": "Ten years ago : Sen. Bob Dole visited his hometown of Russell , Kan. , to announce his bid for the 1980 Republican presidential nomination .",
+        "id": "5335",
+        "triplets_sentence": "<triplet> Sen. Bob Dole <peop> Russell , Kan. <loc> residence",
+        "triples": [
+            {
+                "head": "Sen. Bob Dole",
+                "type": "residence",
+                "tail": "Russell , Kan."
+            }
+        ]
+    },
+    {
+        "title": "5350",
+        "context": "However , the Rev. Jesse Jackson , a native of South Carolina , joined critics of FEMA 's effort .",
+        "id": "5350",
+        "triplets_sentence": "<triplet> Rev. Jesse Jackson <peop> South Carolina <loc> residence",
+        "triples": [
+            {
+                "head": "Rev. Jesse Jackson",
+                "type": "residence",
+                "tail": "South Carolina"
+            }
+        ]
+    },
+    {
+        "title": "5351",
+        "context": "In 1890 , the 34th president of the United States , Dwight D. Eisenhower , was born in Denison , Texas .",
+        "id": "5351",
+        "triplets_sentence": "<triplet> Dwight D. Eisenhower <peop> Denison , Texas <loc> residence",
+        "triples": [
+            {
+                "head": "Dwight D. Eisenhower",
+                "type": "residence",
+                "tail": "Denison , Texas"
+            }
+        ]
+    },
+    {
+        "title": "5354",
+        "context": "In 1782 , the first president who was a native citizen of the United States , Martin Van Buren , was born in Kinderhook , N.Y. In 1791 , composer Wolfgang Amadeus Mozart died in Vienna , Austria , at the age of 35 .",
+        "id": "5354",
+        "triplets_sentence": "<triplet> Martin Van Buren <peop> Kinderhook , N.Y. <loc> residence",
+        "triples": [
+            {
+                "head": "Martin Van Buren",
+                "type": "residence",
+                "tail": "Kinderhook , N.Y."
+            }
+        ]
+    },
+    {
+        "title": "5358",
+        "context": "Today 's highlight in history : On Jan. 8 , 1935 , rock 'n ' roll legend Elvis Presley was born in Tupelo , Miss .",
+        "id": "5358",
+        "triplets_sentence": "<triplet> Elvis Presley <peop> Tupelo , Miss <loc> residence",
+        "triples": [
+            {
+                "head": "Elvis Presley",
+                "type": "residence",
+                "tail": "Tupelo , Miss"
+            }
+        ]
+    },
+    {
+        "title": "5360",
+        "context": "For extra credit , Shutes noted singer-songwriter Bob Dylan , who gets a mention in the song , was born Duluth and reared in Hibbing .",
+        "id": "5360",
+        "triplets_sentence": "<triplet> Bob Dylan <peop> Duluth <loc> residence",
+        "triples": [
+            {
+                "head": "Bob Dylan",
+                "type": "residence",
+                "tail": "Duluth"
+            }
+        ]
+    },
+    {
+        "title": "5361",
+        "context": "In 1767 , Andrew Jackson , seventh president of the United States , was born in Waxhaw , S.C.",
+        "id": "5361",
+        "triplets_sentence": "<triplet> Andrew Jackson <peop> Waxhaw , S.C. <loc> residence",
+        "triples": [
+            {
+                "head": "Andrew Jackson",
+                "type": "residence",
+                "tail": "Waxhaw , S.C."
+            }
+        ]
+    },
+    {
+        "title": "5375",
+        "context": "On this date : In 1833 , Benjamin Harrison , the 23rd president of the United States , was born in North Bend , Ohio .",
+        "id": "5375",
+        "triplets_sentence": "<triplet> Benjamin Harrison <peop> North Bend , Ohio <loc> residence",
+        "triples": [
+            {
+                "head": "Benjamin Harrison",
+                "type": "residence",
+                "tail": "North Bend , Ohio"
+            }
+        ]
+    },
+    {
+        "title": "5376",
+        "context": "In 1785 , U.S. naval hero Oliver Hazard Perry was born in South Kingstown , R.I.",
+        "id": "5376",
+        "triplets_sentence": "<triplet> Oliver Hazard Perry <peop> South Kingstown , R.I. <loc> residence",
+        "triples": [
+            {
+                "head": "Oliver Hazard Perry",
+                "type": "residence",
+                "tail": "South Kingstown , R.I."
+            }
+        ]
+    },
+    {
+        "title": "5378",
+        "context": "In 1822 , the 19th president of the United States , Rutherford B. Hayes , was born in Delaware , Ohio .",
+        "id": "5378",
+        "triplets_sentence": "<triplet> Rutherford B. Hayes <peop> Delaware , Ohio <loc> residence",
+        "triples": [
+            {
+                "head": "Rutherford B. Hayes",
+                "type": "residence",
+                "tail": "Delaware , Ohio"
+            }
+        ]
+    },
+    {
+        "title": "5383",
+        "context": "In 1831 , the 20th president of the United States , James Garfield , was born in Orange , Ohio .",
+        "id": "5383",
+        "triplets_sentence": "<triplet> James Garfield <peop> Orange , Ohio <loc> residence",
+        "triples": [
+            {
+                "head": "James Garfield",
+                "type": "residence",
+                "tail": "Orange , Ohio"
+            }
+        ]
+    },
+    {
+        "title": "5402",
+        "context": "Photo , COLOR , The father of our 34th President was working as a railroad laborer when his son Dwight D. Eisenhower was born on Oct. 14 , 1890 , in a modest two-story frame house in Denison , Tex .",
+        "id": "5402",
+        "triplets_sentence": "<triplet> Dwight D. Eisenhower <peop> Denison , Tex <loc> residence",
+        "triples": [
+            {
+                "head": "Dwight D. Eisenhower",
+                "type": "residence",
+                "tail": "Denison , Tex"
+            }
+        ]
+    },
+    {
+        "title": "5408",
+        "context": "Bette Davis was born Ruth Elizabeth Davis on April 5 , 1908 , in Lowell , Mass .",
+        "id": "5408",
+        "triplets_sentence": "<triplet> Bette Davis <peop> Lowell , Mass <loc> residence <triplet> Ruth Elizabeth Davis <peop> Lowell , Mass <loc> residence",
+        "triples": [
+            {
+                "head": "Bette Davis",
+                "type": "residence",
+                "tail": "Lowell , Mass"
+            },
+            {
+                "head": "Ruth Elizabeth Davis",
+                "type": "residence",
+                "tail": "Lowell , Mass"
+            }
+        ]
+    },
+    {
+        "title": "5410",
+        "context": "On Oct. 18 , 1921 , Jesse Alexander Helms Jr. was born to a policeman and his wife in Monroe , population 3 , 000 .",
+        "id": "5410",
+        "triplets_sentence": "<triplet> Jesse Alexander Helms Jr. <peop> Monroe <loc> residence",
+        "triples": [
+            {
+                "head": "Jesse Alexander Helms Jr.",
+                "type": "residence",
+                "tail": "Monroe"
+            }
+        ]
+    },
+    {
+        "title": "5413",
+        "context": "The House voted Thursday to withdraw a grant to develop bandleader Lawrence Welk 's North Dakota hometown , a rural development project that became a symbol for wasteful government spending last fall .",
+        "id": "5413",
+        "triplets_sentence": "<triplet> Lawrence Welk <peop> North Dakota <loc> residence",
+        "triples": [
+            {
+                "head": "Lawrence Welk",
+                "type": "residence",
+                "tail": "North Dakota"
+            }
+        ]
+    },
+    {
+        "title": "5905",
+        "context": "In Indiana , downed tree limbs interrupted power in parts of Indianapolis .",
+        "id": "5905",
+        "triplets_sentence": "<triplet> Indianapolis <loc> Indiana <loc> location",
+        "triples": [
+            {
+                "head": "Indianapolis",
+                "type": "location",
+                "tail": "Indiana"
+            }
+        ]
+    }
+]
