@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```
 python CONLL04preprocessing/conll04_formatting.py
 ```
-- The first command will format the CONLLO4 test dataset in the desired JSON format and generate it and this generated will stored at the location [data/datasets/conll04/test_triples.json](data/datasets/conll04/test_triples.json). In case you directly want access to the file you can directly find the file in [ipynb files/dataFiles/golden_truth.json]()
+- The first command will format the CONLLO4 test dataset in the desired JSON format and generate it and this generated will stored at the location [data/datasets/conll04/test_triples.json](data/datasets/conll04/test_triples.json). In case you directly want access to the file you can directly find the file in [ipynb files/dataFiles/golden_truth.json](https://github.com/Ananyaiitbhilai/Text2Triple-LLM-Agent/blob/main/ipynb%20files/dataFiles/golden_truth.json)
 ```
 python CONLL04preprocessing/evalFileGeneration.py
 ```
