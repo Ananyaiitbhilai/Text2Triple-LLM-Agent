@@ -68,7 +68,16 @@ Text2Triple
 
 
 ## Getting Started
-
+Following is a high level overview of the pipeline:
+1) Pre-processing of Raw Conll04 dataset
+2) Generate Evaluation file
+3) Run the pipeline
+  There are 3 modules in the pipeline: 
+  - Generate Prediction on the eval file
+  - Process the predictions file to remove hallucintaed responses, etc.
+  - Calculate score for the fine processed file)
+4) The Generated Predictions file are stores and the scores are stored as text files in the Generated Data folder
+Please see the Repositary structure to know about the exact locations for each module.
 
 ### Generating the Evaluation and Ground Truth File in desired JSON Format
 
