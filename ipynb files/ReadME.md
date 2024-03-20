@@ -1,4 +1,4 @@
-This folder contains the files for EDA and Final score calculation. Please note here absolute path for the files was set. You may need to change the path of the files according to your local system's path.
+This folder contains the files for EDA and Final score calculation. Please note here absolute path for the files was set. You may need to change the path of the files according to your local system's path. All the generated files while doing experiments are stored in `dataFiles` Folder. Description of almost all useful files are provided in the table below.
 
 ## Description of the files for which scores are calculated
 
