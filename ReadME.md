@@ -4,10 +4,13 @@
 This repository contains the code and resources for the research project "Towards Harnessing Large Language Models as Autonomous Agents for Semantic Triple Extraction from Unstructured Text". The project aims to develop a framework that integrates Large Language Models (LLMs) with existing tools like REBEL and KnowGL for the task of triple extraction from unstructured text to construct knowledge graphs.
 
 ## Overview
+The Figure below  outlines a framework for training a Large Language Model (LLM) using a method referred to as RLHF, which stands for Reinforcement Learning from Human Feedback. The flowchart is divided into two main sections: 
+- The LLM training procedure using RLHF 
+- RLHF LLM Based Autonomous Agents for Triple Extraction for KG Construction
 
-The proposed framework leverages the strengths of LLMs in understanding complex linguistic structures, handling modalities and negations, and mitigating biases inherent in training data. The experimental results on the CONLL04 dataset indicate that while multi-tool approaches face challenges such as hallucination.
+![Sysarchitecture](imgs/sysArchiwhite.png)
 
-![Sysarchitecture](imgs/sysarchitecture.png)
+The proposed framework leverages the strengths of LLMs in understanding complex linguistic structures, handling modalities and negations, and mitigating biases inherent in training data. The experiments were carried on the CONLL04 dataset.
 
 ## Repository Structure
 
