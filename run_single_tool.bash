@@ -1,11 +1,9 @@
 #!/bin/bash
 
 # Define common paths
-# EVAL_FILE_PATH="data/datasets/conll04/conll04_eval.json"
-# GOLDEN_FILE="data/datasets/conll04/test.json"
+EVAL_FILE_PATH="data/datasets/conll04/conll04_eval.json"
+GOLDEN_FILE="data/datasets/conll04/test.json"
 
-EVAL_FILE_PATH="testing_eval.json"
-GOLDEN_FILE="testing_gold.json"
 
 #GENERATED
 PROCESS_GOLDEN="GeneratedData/Processingforeval/golden_st.json"
