@@ -13,8 +13,6 @@ The Figure below  outlines a framework for training a Large Language Model (LLM)
 The proposed framework leverages the strengths of LLMs in understanding complex linguistic structures, handling modalities and negations, and mitigating biases inherent in training data. The experiments were carried on the CONLL04 dataset.
 
 
-https://github.com/Ananyaiitbhilai/Text2Triple-LLM-Agent/assets/65886348/36eca1e9-4cd2-459a-b508-6efc09c836c6
-
 
 ## Repository Structure
 
